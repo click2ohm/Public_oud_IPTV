@@ -1,0 +1,1034 @@
+{
+"name": "@Script_oud@",
+"author": "github.com",
+#== "!_oud@IPTV" ==#
+"image": "https://www.dropbox.com/s/m0oe15ok3scivze/NamChot2.jpg?dl=1",
+"url": "https://raw.githubusercontent.com/click2ohm/oud_IPTV/main/%40oud/Script_oud",
+#== "https://freenote.biz/raw/cDNt807ycC" ==#
+"parental" : "true",
+"groups":
+[{
+
+#======================= "IPTV&Movie" =======================#
+#== [!_@oud/=IPTV&Movie=] ==#
+"name": "IPTV&Movie",
+"image": "https://sv1.picz.in.th/images/2020/12/23/jpDD7E.jpg",
+"groups":
+	[{
+	#======================= "MegaPlaylist" =======================#
+	#== [!_@oud/=IPTV&Movie=/#MegaPlaylist#] ==#
+	"name": "MegaPlaylist",
+	"image": "https://sv1.picz.in.th/images/2021/08/10/2DpusE.jpg",
+	"groups":
+	[{
+	"name": "MegaPlaylist#0[PL4You]",
+	"info": "!_A-@4You@.bin.ORG",
+	"image": "https://drive.google.com/uc?id=1HwQLEkGUNgde4vDOINO6cXvO9PucPdEh",
+	"url": "https://www.dropbox.com/s/jjc6o81xict3e1c/%21_MegaPlaylist%230.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#1[เจอ-แจก-จบ]",
+	"image": "https://sv1.picz.in.th/images/2023/03/31/m3amh1.jpg",
+	"url": "https://www.dropbox.com/s/li6ohpvi28bn7bj/%21_MegaPlaylist%231.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#2[WE ARE ONE MEGAPL]",
+	"image": "https://upload.wikimedia.org/wikipedia/en/b/b0/ONE_Championship_company_logo.png",
+	"url": "https://www.dropbox.com/s/cgd4vmm07vi3rw6/%21_MegaPlaylist%232.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#3[IPTV WePlay Main]",
+	"image": "https://drive.google.com/uc?id=13YUjTUB3V6sJ2jynC-tW00pITZ-aGmJC",
+	"url": "https://www.dropbox.com/s/g7d8gkpjoc4r0la/%21_MegaPlaylist%233.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#4[One for All]",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyo-bkw_ZMq10181giuN8ZJDw0YIjQMnOgkQ&usqp",
+	"url": "https://www.dropbox.com/s/d9gzqcpfdwz4n7h/%21_MegaPlaylist%234.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "!_MegaPlaylist#5[Bata-Playlists]",
+	"image": "https://sv1.picz.in.th/images/2023/02/23/LFxx1W.jpg",
+	"url": "https://www.dropbox.com/s/7hgfwbf8orvuwi2/%21_MegaPlaylist%235.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#6[To.a.Friend]",
+	"image": "https://sv1.picz.in.th/images/2021/12/15/6rDrYz.jpg",
+	"url": "https://www.dropbox.com/s/4omyyiprh6h717r/%21_MegaPlaylist%236.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#7[IPTV Society]",
+	image:"https://sv1.picz.in.th/images/2022/02/08/rdKgL9.png",
+	"url": "https://www.dropbox.com/s/mw9pwybhmi6reaq/%21_MegaPlaylist%237.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#8[ผู้เฒ่าพเนจร]",
+	"image": "https://www.dropbox.com/s/wlr7j50udgjzyzj/20220417_131341_0000.png?dl=1",
+	"url": "https://www.dropbox.com/s/nurgq4e4zjaqt5e/wandering-oldman.jpg?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#9",
+	"image": "https://drive.google.com/uc?id=1JYa2clqRKy67Jf0wKyIsx3YyssuCht_a",
+	"url": "https://www.dropbox.com/s/7d46xlxsjk63j2u/%21_MegaPlaylist%239.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#10[TV+AV]",
+	"image": "https://i.pinimg.com/originals/0a/f9/1c/0af91c7c8c1b537a395d0a9d8b356d00.gif",
+	"url": "https://www.dropbox.com/s/zh8m4txvp4cgv4u/%21_MegaPlaylist%2310.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#11[SUNBUCK COFFEE TV]",
+	"image": "https://i.gifer.com/QEq.gif",
+	"url": "https://www.dropbox.com/s/duee94ef0o5pfk2/%21_MegaPlaylist%2311.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "!_#MegaPlaylist#12[Wiseplay Online]",
+	"image": "https://sv1.picz.in.th/images/2023/01/24/L7kM3z.jpg",
+	"url": "https://www.dropbox.com/s/ijgc0mtvmfb7cj2/%21_MegaPlaylist%2312.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "!_#MegaPlaylist#13[Share My Link]",
+	"image": "https://sv1.picz.in.th/images/2023/02/27/eSnJjf.jpg",
+	"url": "https://www.dropbox.com/s/bpqqchfexkp1pyl/%21_MegaPlaylist%2313.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaPlaylist#14[Clove V.2(รวมมิตร)]",
+	"image": "https://sv1.picz.in.th/images/2023/04/09/mDuUEe.jpg",
+	"url": "https://www.dropbox.com/s/6spwjanpfjlmw0k/MegaPlaylist14.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "!_#MegaPlaylist#15[XTEMUS TV]",
+	"image": "https://tv.xtemus.com/images/x-logo.gif",
+	"url": "https://www.dropbox.com/s/5jq7ps0nhcjm89x/MegaPlaylist%2315.wOUD?dl=1",
+	"import": false
+	}]
+	#END==================== "MegaPlaylist" =======================#
+	},{
+	#======================= "Movies@4k" =======================#
+	#== [!_@oud/=IPTV&Movie=/#Movies@4k#] ==#
+	"name": "Movies@4k",
+	"image": "https://slm-assets.secondlife.com/assets/24888044/original/MeshNeonAdultsOnly.gif",
+	"groups":
+	[{
+	"name": "4K_2020",
+	"image": "https://nungfree.tv/images/movie/e7a6aa93a0dfce8becc61889ae909651.webp",
+	"url": "https://www.dropbox.com/s/7jr7xabvgkio7jr/4K_2020.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "4K_Mix01",
+	"image": "https://tunedglobal-a.akamaihd.net/images1001/100/1_0/756/797/816/04/104_1001_075679781604_20210622_0540.jpg",
+	"url": "https://www.dropbox.com/s/a5dmovb7nqxa9t4/4K_Mix01.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "4K_Mix02",
+	"image": "https://nungfree.tv/images/movie/3c0a1b927fa281c94f603e5092817015.webp",
+	"url": "https://www.dropbox.com/s/gm6lktw35a2c3cb/4K_Mix02.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "4K_Mix03",
+	"image": "https://www.moviemax.tv/images/tmp/5076f279c3927001ee03bd40b0caa728.webp",
+	"url": "https://www.dropbox.com/s/38mhp5nu3m6w043/4K_Mix03.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "4K_Mix04",
+	"image": "https://cdn-img.movieclub.tv/img_movies_vertical/1588665622_ip-man-4_cover4.jpg",
+	"url": "https://www.dropbox.com/s/jmix2pq533mquf6/4K_Mix04.wOUD?dl=1",
+	"import": false
+	}]
+	#END==================== "Movies@4k" =======================#
+	},{
+	#======================= "OnWeb@หนัง&ซีรี่ย์" =======================#
+	#== [!_@oud/=IPTV&Movie=/#OnWeb@หนัง&ซีรี่ย์#] ==#
+	"name": "!_OnWeb_Movies",
+	"image": "https://sv1.picz.in.th/images/2020/12/23/jpDD7E.jpg",
+	"groups":
+	[{
+	"name": "#ซีรี่ย์#",
+	"image": "https://www.thenews.com.pk/assets/uploads/updates/2022-09-22/993622_1518577_760_updates.jpg",
+	"url": "https://www.dropbox.com/s/0r80zs3wbzqu9gg/8C.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "#หนัง#",
+	"image": "https://i0.wp.com/www.oispice.com/wp-content/uploads/2020/08/Watch-Movies-For-Free.jpg",
+	"url": "https://www.dropbox.com/s/amyt0kd46arkpcs/OnWeb?dl=1",
+	"import": false
+	},{
+	"name": "#หนัง&ซีรี่ย์#",
+	"image": "https://i.pinimg.com/originals/1f/82/c9/1f82c992767ce8aeb6ef8b84a81a0eb2.gif",
+	"url": "https://www.dropbox.com/s/dgqn6t7ikpyjt6b/OnWebC.wOUD?dl=1",
+	"import": false
+	}]
+	#END==================== "OnWeb@หนัง&ซีรี่ย์" =======================#
+	},{
+	#======================= "Streaming" =======================#
+	#== [!_@oud/=IPTV&Movie=/#Streaming#] ==#
+	"name": "#Stream#",
+	"image": "https://uber.nz/wp-content/uploads/2018/12/streaming.jpg",
+	"groups":
+	[{
+	"name": "Anime",
+	"image": "https://sv1.picz.in.th/images/2022/08/02/XRq9lI.jpg",
+	"url": "https://www.dropbox.com/s/l2of3z8ngv7oztn/Anime.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Documentary",
+	"image": "http://www.thevideoexperts.com/files/Blog/8364703_orig.jpg",
+	"url": "https://www.dropbox.com/s/jmpqxpskygr5955/Documentary.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Movies",
+	"image": "https://neilpatel.com/wp-content/uploads/2021/09/10-Technology-and-Social-Media-Documentaries-For-Marketers.jpg",
+	"url": "https://www.dropbox.com/s/iy3772m378k5yk8/Movies.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Series",
+	"image": "https://www.peoplesworld.org/wp-content/uploads/2019/12/pjimage-7.jpg",
+	"url": "https://www.dropbox.com/s/ya2t7n1lq6x0d98/Series.wOUD?dl=1",
+	"import": false
+	}]
+	#END==================== "Streaming" =======================#
+	},{
+	#======================= "TV_Live" =======================#
+	#== [!_@oud/=IPTV&Movie=/#TV_Live#] ==#
+	"name": "TV_Live",
+	"image": "https://mygadgetreviewer.com/wp-content/uploads/2020/08/live-tv-apps-to-watch-movies.jpg",
+	"groups":
+	[{
+	"name": "Github",
+	"image": "https://mygadgetreviewer.com/wp-content/uploads/2020/08/live-tv-apps-to-watch-movies.jpg",
+	"url": "https://www.dropbox.com/s/buuasg9632l3fdu/Github.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "M3u_WorldTv",
+	"image": "https://stbm3ufree.com/wp-content/uploads/2022/11/World-M3u-List-19-11-390x220.jpg",
+	"url": "https://www.dropbox.com/s/e3dyyyycl3892ay/M3u_WorldTv.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "PlayIDTVOTT",
+	"image": "https://avatars.githubusercontent.com/u/75758097?v=4",
+	"url": "https://www.dropbox.com/s/28h2mqp1a1p97rw/PlayIDTVOTT.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "TV_Ch",
+	"image": "https://mygadgetreviewer.com/wp-content/uploads/2020/08/live-tv-apps-to-watch-movies.jpg",
+	"url": "https://www.dropbox.com/s/bgz3ht41azb01rx/TV_Ch.wOUD?dl=1",
+	"import": false
+	}]
+	#END==================== "TV_Live" =======================#
+	},{
+	#======================= "คลังหนัง" =======================#
+	#== [!_@oud/=IPTV&Movie=/#คลังหนัง#] ==#
+	"name": "#คลังหนัง#",
+	"image": "https://sv1.picz.in.th/images/2020/12/23/jpDD7E.jpg",
+	"groups":
+	[{
+	"name": "คลังหนัง#1",
+	"image": "https://sv1.picz.in.th/images/2021/08/09/2l6JBy.jpg",
+	"url": "https://www.dropbox.com/s/rhathb7g166qbr7/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2301.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#2",
+	"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/LAMEGALISTA.jpg",
+	"url": "https://www.dropbox.com/s/rtg9o7dozae2g7k/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2302.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#3",
+	"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/LAMEGALISTA.jpg",
+	"url": "https://www.dropbox.com/s/t1nh9qee0mhruhk/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2303.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#4",
+	"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/LAMEGALISTA.jpg",
+	"url": "https://www.dropbox.com/s/n5jz2psf91fun1s/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2304.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#5",
+	"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/LAMEGALISTA.jpg",
+	"url": "https://www.dropbox.com/s/mhfh3h5gpmf5yqq/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2305.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#6",
+	"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/LAMEGALISTA.jpg",
+	"url": "https://www.dropbox.com/s/3edxpulzbbreex5/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2306.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#7",
+	"image": "https://sv1.picz.in.th/images/2022/02/08/rdKgL9.png",
+	"url": "https://www.dropbox.com/s/xfzjoad33cr0ikn/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2307.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#8",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJcxgEJlKZ_S-qNpCZ3PsAHpnGGKk5RnsQQ&usqp=CAU",
+	"url": "https://www.dropbox.com/s/ytn557u4taagnjn/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2308.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#9",
+	"image":"https://drive.google.com/uc?id=1jjcTAWBpRtEA1zLWQdJvkiVyEUoZDK0a",
+	"url": "https://www.dropbox.com/s/azyyonc0un02i8q/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2309.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#10",
+	"image":"https://i.ibb.co/QcqJ4Vs/movie.jpg",
+	"url": "https://www.dropbox.com/s/vywz5zaxjdeh1kn/%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%2310.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#11",
+	"image": "https://docs.google.com/uc?export=download&id=1Pvz6YYl9hJu0__--8AJhI5QQq9x0PRAz",
+	"url": "https://www.dropbox.com/s/7mlpt22a15jv2rv/?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#12",
+	"image": "https://sv1.picz.in.th/images/2023/02/04/LgQluZ.jpg",
+	"url": "https://www.dropbox.com/s/q3so6iia9ilurnj/2312.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "คลังหนัง#13",
+	"image": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2015/05/29/ua9wtrz9wiq4w08wflk3.gif?quality=80&resize=832,468",
+	"url": "https://www.dropbox.com/s/hzasj0hw1boqqsy/wOUD?dl=1",
+	"import": false
+	}]
+	#END==================== "คลังหนัง" =======================#
+	}]
+#END==================== "IPTV&Movie" =======================#
+},{
+#======================= "Radio" =======================#
+#== [!_@oud\=Radio=] ==#
+"name": "RadioOnline",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
+"groups":
+	[{
+	"name": "OnWeb@Radio",
+	"image": "https://mytuner.global.ssl.fastly.net/static/icons/apple-touch-icon-144x144-precomposed.png",
+	"url": "https://www.dropbox.com/s/b3cx4ed0eggnhw0/OnWeb%40Radio.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Stream@Radio",
+	"image": "https://mytuner.global.ssl.fastly.net/static/icons/apple-touch-icon-144x144-precomposed.png",
+	"url": "https://www.dropbox.com/s/wkao3foe94panuy/Stream%40Radio.wOUD?dl=1",
+	"import": false
+	}]
+#END==================== "Radio" =======================#
+},{
+#======================= "Relax18+" =======================#
+#== [!_@oud\=Relax18+=] ==#
+"name": "Relax18+",
+"image": "https://slm-assets.secondlife.com/assets/24888044/original/MeshNeonAdultsOnly.gif",
+"groups":
+	[{
+	#======================= "Relax@drv.tw" =======================#
+	#== [!_@oud\=Relax18+=] ==#
+	"name": "Relax@drv.tw",
+	"image": "https://slm-assets.secondlife.com/assets/24888044/original/MeshNeonAdultsOnly.gif",
+	"stations":
+	[{
+	"name": "Relax@drv.tw",
+	"image": "https://slm-assets.secondlife.com/assets/24888044/original/MeshNeonAdultsOnly.gif",
+	"url": "https://namchot-rueangdej2iptv.on.drv.tw/drv.tw/OnWeb_Relax@drv.tw.html", "embed": "true"
+	}]
+	#END==================== "Relax@drv.tw" =======================#
+	},{	
+	#END==================== "Cloud18+" =======================#
+	#== [!_@oud\=Relax18+=\=Cloud18+] ==#
+	"name": "!_Cloud18+",
+	"image": "https://picmeta202203.xyz/upload/vod/20220322-1/203f151f87f882eba5a5a2119a9c81f3.jpg",
+	"groups":
+	[{
+	"name": "18+ V.2[Cloud]",
+	"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/PEGI_18_%282003-2009%29.svg/1024px-PEGI_18_%282003-2009%29.svg.png",
+	"url": "https://www.dropbox.com/s/e5kbiwp09xzmxy9/18%2B%20V.2%5BCloud%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "AV[Cloud]",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqhB8m-06Ggv7W6lvQujXgkwvQYiRJNPvb-Q&usqp=CAU",
+	"url": "https://www.dropbox.com/s/5qotuk4geicf9ch/%21_AV%5BCloud%5DwOUD?dl=1",
+	"import": false
+	},{
+	"name": "AV24FLIX[Cloud]",
+	"image": "https://sv1.picz.in.th/images/2021/12/22/6LzGtv.jpg",
+	"url": "https://www.dropbox.com/s/21k3ot8dclajcyz/%21_AV24flix%5BCloud%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Avple@สลัดไง",
+	"image": "https://www.thaihealth.or.th/data/content/21494/cms/21494_thaihealth_xht756fzp19a.jpg",
+	"url": "https://www.dropbox.com/s/gyfmy9qjp3xqyyl/Avple?dl=1",
+	"import": false
+	},{
+	"name": "AVple_FC2PPV[Cloud]",
+	"image": "https://asserts.avple.tv/file/avple-asserts/642197d8612ac41a377b1944/preview/1.webp",
+	"url": "https://www.dropbox.com/s/cwodxvouk9y5l5p/AVple_FC2PPV.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "AVpockieHD[Cloud]",
+	"image": "https://avpockiehd.com/wp-content/uploads/2022/07/av18-logo-png.png",
+	"url": "https://www.dropbox.com/s/h388ojjgt84vy9t/%21_AVpockieHD%5BCloud%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "AVthai[Cloud]",
+	"image": "https://www.av-th.net/wp-content/uploads/2020/06/logo11.png",
+	"url": "https://www.dropbox.com/s/qe2ujm35i6mi9aa/%21_AVthai%5BCloud%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "AVอุ๋ง อุ๋ง@สลัดไง[Cloud]",
+	"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+	"url": "https://www.dropbox.com/s/xzqjvfgymzu19zr/wOUD?dl=1",
+	"import": false
+	},{
+	"name": "China18[Cloud]",
+	"image": "https://www.shutterstock.com/image-vector/18-plus-graphic-vector-sign-260nw-2215142883.jpg",
+	"url": "https://www.dropbox.com/s/vxm8l27c6y70fon/China18?dl=1",
+	"import": false
+	},{
+	"name": "JAV by เอก[Cloud]",
+	"image": "https://3.bp.blogspot.com/-suOBroBFvUQ/WuM4AAetyxI/AAAAAAAbGB8/NB5iuaWAM4Ye2F6Rh0JHClu59O7jqs-xQCLcBGAs/s1600/AW0980007_00.gif",
+	"url": "https://www.dropbox.com/s/sswkisb8hdyhfod/81.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Javtu[Cloud]",
+	"image": "https://www.javtu.com/wp-content/uploads/2018/06/javtu.png",
+	"url": "https://www.dropbox.com/s/q752vto0u4vdmgy/%21_Javtu%5BCloud%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "SharkWow[Cloud]",
+	"image":"https://i.imgur.com/BnZ2Lox.png",
+	"url": "https://www.dropbox.com/s/f5rcnfj4er8sllv/%21_SharkWow%5BCloud%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Sunbuck Coffee18+[Cloud]",
+	"image": "https://sv1.picz.in.th/images/2022/07/16/Vyb19Z.jpg",
+	"url": "https://www.dropbox.com/s/islsrvqz8w3ua9o/Sunbuck.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Videox24[Cloud]",
+	"image": "https://videox24.com/wp-content/uploads/2022/01/Logo.png",
+	"url": "https://www.dropbox.com/s/f0h3skzr32pifkf/%21_Videox24%5BCloud%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "WARPAV.COM[Cloud]",
+	"image": "https://warpav.com/wp-content/uploads/2022/10/warpav-LOGO-01.png",
+	"url": "https://www.dropbox.com/s/p8kn7q1bmorwnyf/%21_WARPAV%5BCloud%5D.w3u?dl=1",
+	"import": false
+	},{
+	"name": "Web18+[Cloud]",
+	"image": "https://sv1.picz.in.th/images/2021/12/26/6IVrYE.jpg",
+	"url": "https://www.dropbox.com/s/sgyunmhw3kq4btv/%21_Web18%2B%5BCloud%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "YedHe[Cloud]",
+	"image": "https://www.yedhe.com/wp-content/uploads/2021/01/logo.png",
+	"url": "https://www.dropbox.com/s/w8w05i35ypde60n/%21_YedHe%5BCloud%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "เทพประทานพร[Cloud]",
+	"image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/dragon-ball-shenron-george-m-stoddard.jpg",
+	"url": "https://www.dropbox.com/s/r3v9eeczrbxgu9t/5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "ตู้ปันสุข[Cloud]",
+	"image": "https://drive.google.com/uc?id=1fucMsJgTfXQCKfaharXzUOQVDiU6dWVV",
+	"url": "https://www.dropbox.com/s/vd6o2o41bnu5nvk/D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "ส่งJimมาให้Doo[Cloud]",
+	"image": "https://www.dropbox.com/s/vd7ipm4k5pyj413/Fake%20VIP.jpg?dl=1",
+	"url": "https://www.dropbox.com/s/phvhaxbr69ztiw5/D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "ห้องแห่งความลับ[Cloud]",
+	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTma8CDapOd5Kqi_P5TAbCL5W2kmEYAzG6w&usqp=CAU",
+	"url": "https://www.dropbox.com/s/g35hu0oifkk7r3e/wOUD?dl=1",
+	"import": false
+	},{
+	"name": "อุ๋ง อุ๋ง ปันสุข",
+	"image":"https://lh3.googleusercontent.com/-Xy3JbqRLA6g/ZOTpGaGiaAI/AAAAAAAAAI4/9j63PXk6OAop1iX2nRswG-cqfff5T1WRgCNcBGAsYHQ/h120/images.png",
+	"url": "https://www.dropbox.com/scl/fi/fc4dkgnmoxhllfvdstsvu/.wOUD?rlkey=ak4vlox4ldskggcij75qo2kaq&dl=1",
+	"import": false
+	}]
+	#END==================== "Cloud18+" =======================#
+	},{
+	#======================= "Gdrive18+" =======================#
+	#== [!_@oud\=Relax18+=\=Gdrive18+] ==#
+	"name": "Gdrive18+",
+	"image": "https://cdn.wccftech.com/wp-content/uploads/2020/03/access-google-drive-from-files-app-ios-13-ipados.jpeg",
+	"stations":
+	[{
+	"name": "!_ให้เพื่อนประจวบ=",
+	"image": "",
+	"url": "https://docs.google.com/uc?id=1ooWC_sAn5HUzsRWfJ_1ozdoQB7IkH9ws",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+	"embed": "true"
+	},{
+	"name": "columbia-xxx.com",
+	"image": "",
+	"url": "https://drive.google.com/drive/folders/17dXt-Xtg5jaDtErQh17_T0LN0P73Z26t",
+	"embed": "true"
+	},{
+	"name": "TDFN[18+]",
+	"image": "",
+	"url": "https://drive.google.com/drive/folders/0ABlM4P-faYI1Uk9PVA",
+	"embed": "true"
+	},{
+	"name": "TDFN[M5]",
+	"image": "",
+	"url": "https://drive.google.com/drive/folders/0ABWFLc-yJJLyUk9PVA",
+	"embed": "true"
+	},{
+	"name": "TDFN-BK[Panpan]",
+	"image": "",
+	"url": "https://drive.google.com/drive/folders/0AFVSORCjTgpCUk9PVA",
+	"embed": "true"
+	},{
+	"name": "#===Rd_Relax",
+	"image": "",
+	"url": "https://drive.google.com/drive/folders/0AF7dZ0R2VWMaUk9PVA",
+	"embed": "true"
+	},{
+	"name": "#===Rd_พักข้อมูล",
+	"image": "",
+	"url": "https://drive.google.com/drive/folders/0ACKW_0YrcO5uUk9PVA",
+	"embed": "true"
+	}]
+	#END==================== "Gdrive18+" =======================#
+	},{
+	#======================= "Mega18+" =======================#
+	#== [!_@oud\=Relax18+=\=Mega18+] ==#
+	"name": "Mega18+",
+	"image": "https://picmeta2023.top/upload/vod/20230117-1/933283ce45224e62120afbb961fea226.jpg",
+	"groups":
+	[{
+	"name": "MegaRelax#0[GoodForHeart]",
+	"image": "https://sv1.picz.in.th/images/2022/12/17/JdDqGf.jpg",
+	"url": "https://www.dropbox.com/s/gzks0lqlmocjhz1/MegaRelax%230%5BGoodForHeart%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaRelax#1[ตู้ปันสุข]",
+	"image": "https://drive.google.com/uc?id=1fucMsJgTfXQCKfaharXzUOQVDiU6dWVV",
+	"url": "https://www.dropbox.com/s/7u4hgbnxeowwy82/5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaRelax#2[60ยังเสียว]",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNuiO6FXGfjj-pU7KQPliHsIfIQ1E1Rg2LA&usqp=CAU",
+	"url": "https://www.dropbox.com/s/vi991u6pns19c0c/5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaRelax#3[เทพประทานพร]",
+	"image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/dragon-ball-shenron-george-m-stoddard.jpg",
+	"url": "https://www.dropbox.com/s/ysugapl3xhqpqe2/5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaRelax#4[SUNBUCK COFFEE]",
+	"image": "https://sv1.picz.in.th/images/2022/07/16/Vyb19Z.jpg",
+	"url": "https://www.dropbox.com/s/85k0jqu3xz9dk3o/%21_MegaRelax%234%5BSUNBUCK%20COFFEE%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaRelax#5[💖JAV💖]",
+	"image": "https://3.bp.blogspot.com/-suOBroBFvUQ/WuM4AAetyxI/AAAAAAAbGB8/NB5iuaWAM4Ye2F6Rh0JHClu59O7jqs-xQCLcBGAs/s1600/AW0980007_00.gif",
+	"url": "https://www.dropbox.com/s/8ootxvhferb50de/%21_MegaRelax%235%5BJAV%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaRelax#6[มุมพักผ่อน18+]",
+	"image": "https://drive.google.com/uc?id=1D8Ia0xBPRPe53WdJi9f2q3EAQ_FvhQ3W",
+	"url": "https://www.dropbox.com/s/jzw8lctgeg8qx79/%21_MegaRelax%236.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "MegaRelax#7[SharkWOW]",
+	"image":"https://i.imgur.com/BnZ2Lox.png",
+	"url": "https://www.dropbox.com/s/f3lt42zhuhfj90n/%21_MegaRelax%237%5BSharkWOW%5D.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "!_MegaRelax#8[Adult 18+ Share]",
+	"image": "https://dl.dropbox.com/s/zmfp3jwakpxyu3i/26-Adult.jpg",
+	"url": "https://www.dropbox.com/s/vvig0i7aupebzxz/?dl=1",
+	"import": false
+	}]
+	#END==================== "Mega18+" =======================#
+	},{
+	#======================= "OnWeb18+" =======================#
+	#== [!_@oud\=Relax18+=\=OnWeb18+] ==#
+	"name": "OnWeb18+",
+	"image": "https://slm-assets.secondlife.com/assets/24888044/original/MeshNeonAdultsOnly.gif",
+	"groups":
+	[{
+	"name": "Gravure",
+	"image": "https://sycdn.comtucdncom.com/Miyagc-pic/F18347D1F928D8D1.jpg",
+	"url": "https://www.dropbox.com/s/lpiled5w6xej2sc/Gravure.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Indonesian & Filipino",
+	"image": "https://i0.wp.com/pinaynay.com/wp-content/uploads/2023/01/dukit-kahit-nakabukas-ang-bintana.jpg",
+	"url": "https://www.dropbox.com/s/9p4yqc9fzxlkrwc/Indonesian%20%26%20Filipino.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Loli",
+	"image": "https://sycdn.comtucdncom.com/Miyagc-pic/ACB1ADA8C9691049.jpg",
+	"url": "https://www.dropbox.com/s/nyp1abdjou9nvv9/Loli.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Main",
+	"image": "https://fellatio.gallery/pics/1pondo/hina-hodaka/081622_001/hina-hodaka-4.jpg",
+	"url": "https://www.dropbox.com/s/h97lahppw9upqdx/Main.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Pic18+",
+	"image": "https://cdn77-pic.xnxx-cdn.com/videos/thumbs169xnxxll/46/bd/13/46bd135aea8fa080ee34fa4ed3f287ba-1/46bd135aea8fa080ee34fa4ed3f287ba.7.jpg",
+	"url": "https://www.dropbox.com/s/oab91tdp83c4y0a/Pic18%2B.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Shaved",
+	"image": "https://www.juzipice.cc/upload/vod/20230705-1/84a02a38b446070dbba8801b8dd90330.gif",
+	"url": "https://www.dropbox.com/s/wq85h0z7hjsr0g0/Shaved.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Show&CloseUp",
+	"image": "https://img.oosex.net/9/5/181295/thumb-m.0@2x.webp",
+	"url": "https://www.dropbox.com/s/u7ngpau1ocqyd44/Show%26CloseUp.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "SubThai",
+	"image": "https://www.av-th.net/wp-content/uploads/2021/05/2021031212243230930-360x203.jpg",
+	"url": "https://www.dropbox.com/s/eysurcuiq6wirop/SubThai.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Uncen",
+	"image": "https://jav.onl/jpg/heyzo/misato-wakaba/2582/misato-wakaba-21.jpg",
+	"url": "https://www.dropbox.com/s/wjfnfbm7y2c92ui/Uncen.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Voyeur",
+	"image": "https://69yw.top/static/vod/2022/63929e4413f67.jpg",
+	"url": "https://www.dropbox.com/s/qtgcgz3akrv9pfl/Voyeur.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "ไทย",
+	"image": "https://pornhubthailand.com/wp-content/uploads/2021/12/900-1.jpg",
+	"url": "https://www.dropbox.com/s/l1yr6edxfsw582s/%E0%B9%84%E0%B8%97%E0%B8%A2.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "จีน",
+	"image": "https://imgmrplay.xyz/upload/vod/20210429-1/4be5d8e927828f0a7aa9ff9c6c90df35.jpg",
+	"url": "https://www.dropbox.com/s/5dwm33xzrxnu430/%E0%B8%88%E0%B8%B5%E0%B8%99.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "แบ่งปัน",
+	"image": "https://sv1.picz.in.th/images/2021/12/26/6IVrYE.jpg",
+	"url": "https://drive.google.com/uc?id=1tNHTbRK_eXWVC_Ih7N1ImDwfqrAyykj_",
+	"import": false
+	}]
+	#END==================== "OnWeb18+" =======================#
+	},{
+	#======================= "Stream18+" =======================#
+	#== [!_@oud\=Relax18+=\=Stream18+] ==#
+	"name": "Stream18+",
+	"image": "https://previews.123rf.com/images/arcady31/arcady311604/arcady31160400024/55145293-under-18-rubber-stamp-adults-only.jpg",
+	"groups":
+	[{
+	"name": "GenWeb18+",
+	"image": "https://www.mymypic.net/data/attachment/forum/202308/01/2138062uco0vnc5k2ru1p2.jpg",
+	"url": "https://www.dropbox.com/scl/fi/0gx593yz2544djnql3dry/_GenWeb18.wOUD?rlkey=lakxuh048zy5m3iwg8huhjc0y&dl=1",
+	"import": false
+	},{
+	"name": "Gravure_iV",
+	"image": "https://pics.dmm.co.jp/mono/movie/adult/h_346rebd586/h_346rebd586pl.jpg",
+	"url": "https://www.dropbox.com/s/bts0nag9nd4wzo3/%21_Gravure_iV.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "H Anime",
+	"image": "https://hanimesubth.com/assets/image/logo.png",
+	"url": "https://www.dropbox.com/s/mprv1foa0h6k6mb/wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Loli",
+	"image": "https://javerotic.com/media/japanese/futaba-kurimiya/7/futaba-kurimiya-10.jpg",
+	"url": "https://www.dropbox.com/s/10b50sdi3gsnzau/%21_Loli.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "OtherRelax",
+	"image": "https://previews.123rf.com/images/arcady31/arcady311604/arcady31160400024/55145293-under-18-rubber-stamp-adults-only.jpg",
+	"url": "https://www.dropbox.com/s/qra8vuq2rj4dzew/%21_OtherRelax.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Show&CloseUp",
+	"image": "https://img2.xiangbinjun.com/new/2021-07-01/GACHIG-073.jpg",
+	"url": "https://www.dropbox.com/s/f4ozpbtx6pxmjs2/%21_Show%26CloseUp.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Subthai",
+	"image": "https://avsubthai.me/wp-content/uploads/2019/06/avsubthai-ico.jpg",
+	"url": "https://www.dropbox.com/s/fhy9yxn0p5lvl7j/%21_Subthai.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Uncen",
+	"image": "https://javerotic.com/media/girlsdelta/yuriha-egaimi/1733/yuriha-egaimi-4.jpg",
+	"url": "https://www.dropbox.com/s/8gi66cvprt9ur2b/%21_Uncen.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Voyeur",
+	"image": "https://www.buzzav.com/media/videos/tmb1/42363/default.jpg",
+	"url": "https://www.dropbox.com/s/epbtufzsxlwyqu2/%21_Voyeur.wOUD?dl=1",
+	"import": false
+	}]
+	#END==================== "Stream18+" =======================#
+	},{
+	#======================= "TV18+" =======================#
+	#== [!_@oud\=Relax18+=\=TV18+] ==#
+	"name": "TV18+",
+	"image": "https://javerotic.com/media/japanese/rokka-ono/19/rokka-ono-9.jpg",
+	"groups":
+	[{
+	"name": "AdultsTopPlay",
+	"image": "https://mei.lbpicmt.com/upload/art/gif/gfdt/tumblr_o64lyaLKhL1ug7mq1o9_400.gif",
+	"url": "http://topplay.do.am/AdultsTopPlay.m3u",
+	"import": false
+	},{
+	"name": "PornTV01",
+	"image": "https://mei.lbpicmt.com/upload/art/gif/gfdt/tumblr_o64lyaLKhL1ug7mq1o9_400.gif",
+	"url": "https://www.dropbox.com/s/nubkteytf68c2g6/PornTV01.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "SpankBangTV",
+	"image": "https://assets.sb-cd.com/static/desktop/Images/logo_v5@2x.png",
+	"url": "https://www.dropbox.com/s/dv7aztashfhqfzw/SpankBangTV.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "OtherTV18+#1",
+	"image": "https://previews.123rf.com/images/arcady31/arcady311604/arcady31160400024/55145293-under-18-rubber-stamp-adults-only.jpg",
+	"url": "https://bit.ly/40esWpW",
+	"import": false
+	}]
+	#END==================== "TV18+" =======================#
+	},{
+	#======================= "แบ่งปัน18+@Line" =======================#
+	#== [!_@oud\=Relax18+=\=แบ่งปัน18+@Line] ==#
+	"name": "แบ่งปัน18+@Line",
+	"image": "https://slm-assets.secondlife.com/assets/24888044/original/MeshNeonAdultsOnly.gif",
+	"groups":
+	[{
+	"name": "18+++",
+	"image": "https://thumbs.dreamstime.com/b/sign-warning-symbol-isolated-white-background-over-plus-censored-eighteen-age-older-forbidden-adult-content-sign-warning-144828369.jpg",
+	"url": "https://www.dropbox.com/scl/fi/vtc65nngsuya0hl2z8lfd/18.wOUD?rlkey=sfmpek8cfolplyve7zpz5vs8r&dl=1",
+	"import": false
+	},{
+	"name": "Adult 18+ Share",
+	"image": "https://dl.dropbox.com/s/zmfp3jwakpxyu3i/26-Adult.jpg",
+	"url": "https://www.dropbox.com/s/dsnfmsz5ynf12q7/%21_Adult%2018%2B%20Share.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "AV UNCENSORED",
+	"image": "https://64.media.tumblr.com/7131d18705d4f5976d4e3c7c3a875859/tumblr_p0r2qp8Cud1wy62yvo1_400.gifv",
+	"url": "https://www.dropbox.com/s/ns5fw6y5u8m1b8t/AV%20UNCENSORED.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Avple@1",
+	"image":"https://asserts.avple.tv/file/avple-asserts/64b103572d786546e09dc9a3/preview/1.webp",
+	"url": "https://www.dropbox.com/scl/fi/csfuzsfxddozd8dx7nhne/Avple.mOUD?rlkey=h2m4wklpza75mivw587v9mzu3&dl=1",
+	"import": false
+	},{
+	"name": "Avple@2",
+	"image":"https://asserts.avple.tv/file/avple-asserts/64b103572d786546e09dc9a3/preview/1.webp",
+	"url": "https://www.dropbox.com/scl/fi/3krpj9owsopa42tii944n/Avple-2.wOUD?rlkey=nge3rkerxk0kkftlcjbqretor&dl=1",
+	"import": false
+	},{
+	"name": "Avple_24540เรื่อง",
+	"image":"https://asserts.avple.tv/file/avple-asserts/64b103572d786546e09dc9a3/preview/1.webp",
+	"url": "https://www.dropbox.com/s/a6ugbd9k4b4tocj/Avple_.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "Avple_new_43603เรื่อง",
+	"image":"https://img3.lltaohuaxiang.com/f2dgc/20230711/35.jpg",
+	"url": "https://www.dropbox.com/s/km4optirx5dgplc/Avple_new_.mOUD?dl=1",
+	"import": false
+	},{
+  	"name": "AVค่าย มาดูมีเดีย 10153เรื่อง",
+  	"image": "https://sv1.picz.in.th/images/2023/07/12/M1wN9S.jpeg",
+	"url": "https://www.dropbox.com/s/ib400fyk3w8px9b/wOUD?dl=1",
+	"import": false
+	},{
+	"name": "AVอุ๋ง อุ๋ง@สลัดไง",
+	"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+	"url": "https://www.dropbox.com/s/uuw5i8snzfbox4r/AV.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "GoodForHeart",
+	"image": "https://sv1.picz.in.th/images/2022/12/17/JdDqGf.jpg",
+	"url": "https://www.dropbox.com/s/vmg73kasi65xeym/%21_GoodForHeart.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Guflix",
+	"image": "http://guflix.streaming-fast.com/logo/guflix.gif",
+	"url": "https://www.dropbox.com/scl/fi/bqplkgfylq0zdsw456zog/Guflix18-Sv3.wOUD?rlkey=a731iihajwx0gm52nn9ilio4u&dl=1",
+	"import": false
+	},{
+	"name": "ช่องหนัง 20 +",
+	"image": "https://drive.google.com/uc?id=11ZQtJyA93c_kaZdeU-5teWkBIq87B2uW",
+	"url": "https://www.dropbox.com/s/cl1fh32dbyswf30/IPTV.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "💖JAV💖",
+	"image": "https://3.bp.blogspot.com/-suOBroBFvUQ/WuM4AAetyxI/AAAAAAAbGB8/NB5iuaWAM4Ye2F6Rh0JHClu59O7jqs-xQCLcBGAs/s1600/AW0980007_00.gif",
+	"url": "https://www.dropbox.com/s/f9zf41c0g3jj7cr/JAV%2BANIME.txt.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "JAV-videos_1840เรื่อง",
+	"image": "https://www.jav-videos.com/wp-content/uploads/2023/07/IPZZ-031.jpg",
+	"url": "https://www.dropbox.com/s/rtd8l2tmqfhb92h/JAV-videos_.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "เทพประทานพร",
+	"image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/dragon-ball-shenron-george-m-stoddard.jpg",
+	"url": "https://www.dropbox.com/s/ei3kuy3qiensvkg/3.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "แบ่งปัน Av",
+	"image": "https://sv1.picz.in.th/images/2023/08/22/dW3Issl.png",
+	"url": "https://www.dropbox.com/scl/fi/qkq742dhn5kek1dhxmcmi/Av.wOUD?rlkey=i6300lbzm6y9zeidanl21rzvi&dl=1",
+	"import": false
+	},{
+	"name": "ตู้ปันสุข",
+	"author": "!_@oud/=Relax18+=/=แบ่งปัน@Line=​",
+	"image": "https://drive.google.com/uc?id=1fucMsJgTfXQCKfaharXzUOQVDiU6dWVV",
+	"url": "https://www.dropbox.com/s/zi7epiu1y6jyvo1/.wOUD?dl=1",
+	"import": false
+	},{
+	"name":"ห้องแห่งความลับ",
+	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTma8CDapOd5Kqi_P5TAbCL5W2kmEYAzG6w&usqp=CAU",
+	"url": "https://www.dropbox.com/s/8sil4dgxxcsrs4x/wOUD?dl=1",
+	"import": false
+	},{
+	"name": "อุ๋ง อุ๋ง ปันสุข",
+	"image":"https://lh3.googleusercontent.com/-Xy3JbqRLA6g/ZOTpGaGiaAI/AAAAAAAAAI4/9j63PXk6OAop1iX2nRswG-cqfff5T1WRgCNcBGAsYHQ/h120/images.png",
+	"url": "https://www.dropbox.com/scl/fi/di32fbanhvhgs91apbvpk/.wOUD?rlkey=ixp4bho3l3pqli4f1t0sxs4d7&dl=1",
+	"import": false
+	}]
+	#END==================== "แบ่งปัน18+@Line" =======================#
+	}]
+#END================ "Relax18+" =======================#
+},{
+#======================= "YouTube" =======================#
+#== [!_oud@IPTV\!_@oud\=YouTube=] ==#
+"name": "=YouTube=",
+"image": "https://www.youtube.com/img/desktop/yt_1200.png",
+"groups":
+	[{
+	"name": "=เพลงLive&LongPlay=",
+	"image": "",
+	"url": "https://dl.dropbox.com/s/bdgt2fu6jebu8kd/!_เพลงLive&LongPlay.wOUD",
+	"import": false
+	},{
+	"name": "=ธรรมะ=",
+	"image": "https://i.ytimg.com/vi/iZfWgF_zG5E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC2-VTx-mtEwbQZ9tPNzgzOxZLxUg",
+	"url": "https://dl.dropbox.com/s/uycna6tplgjdpv6/!_ธรรมะ.wOUD",
+	"import": false
+	},{
+	"name": "=สารคดี=",
+	"image": "",
+	"url": "https://dl.dropbox.com/s/mt3co8bzx3u050l/!_Documentary.wOUD",
+	"import": false
+	}]
+#END==================== "YouTube" =======================#
+},{
+#======================= "กลยุทธ์Forex" =======================#
+#== [!_oud@IPTV\!_@oud\=กลยุทธ์Forex=] ==#
+name: "ForexStrategies",
+image: "https://yt3.ggpht.com/ytc/AAUvwnj-UxicTAusA4fx7-HMllZQf62PBBR21JLcmbSa",
+"groups":
+	[{
+	#======================= "SoundInter" =======================#
+	#== [!_@oud\=กลยุทธ์Forex=\Soundinter] ==#
+	name: "Soundinter",
+	image: "https://forexlearning.co/storage/blogs/9a7221d3cb6dbf3bbc5bd72b9f0a041e.jpg",
+	"groups":
+		[{
+		"name": "Channel",
+		"image": "",
+		"url": "",
+		"import": false
+		},{
+		"name": "EditEA",
+		image: "https://forexlearning.co/storage/blogs/22de9cb603c8330f0c6de095bcd2d06f.jpg",
+		url: "https://www.dropbox.com/s/qla9k6flbqxbcmv/EditEA%40EN.wOUD?dl=1",
+		"import": false
+		},{
+		"name": "ForexBeginners",
+		"image": "",
+		"url": "",
+		"import": false
+		},{
+		"name": "IndicatorRenko",
+		"image": "",
+		"url": "",
+		"import": false
+		},{
+		"name": "IndicatorTIP",
+		"image": "",
+		"url": "",
+		"import": false
+		},{
+		"name": "TIP",
+		"image": "",
+		"url": "",
+		"import": false
+		}]
+	#END==================== "SoundInter" =======================#
+	},{
+	#======================= "SoundThai" =======================#
+	#== [!_@oud\=กลยุทธ์Forex=\SoundThai] ==#
+	name: "SoundThai",
+	image: "https://www.forexlearning.co/storage/blogs/c0a39395144a47512db1cf898cd90b6f.jpg",
+	"groups":
+		[{
+		#======================= "Beginners" =======================#
+		#== [!_@oud\=กลยุทธ์Forex=\SoundThai\Beginners] ==#
+		name: "Beginners@TH",
+		image: "http://www.mohsinjameel.com/wp-content/uploads/2020/03/forex-trading.jpg",
+		"groups":
+			[{
+			"name": "Beginners@Exness",
+			"image": "https://yt3.ggpht.com/ytc/AAUvwnjkn7xeAC5X-e22iwFX2hq_ILUe8qzLA8wsG0kz2Q",
+			"url": "https://www.dropbox.com/s/l10lcy8ef8j27y8/Beginners%40Exness.wOUD?dl=1",
+			"import": false
+			},{
+			"name": "Beginners@FitMoney",
+			"image": "https://yt3.ggpht.com/ytc/AAUvwnil6p6asESyc0uZMPSawTE5R7WFV0KhD3Vf4qW23A",
+			"url": "https://www.dropbox.com/s/ajlzf6l2meuoqem/Beginners%40FitMoney.wOUD?dl=1",
+			"import": false
+			},{
+			"name": "Beginners@Kitthanet",
+			"image": "https://yt3.ggpht.com/mdSscBeaDIGVcJupL7H0RqbKpzoAuMSVdApTXO-Xi68bZTDqAF5CzLyO3UyGTIUI1FuUUG8-qg",
+			"url": "https://www.dropbox.com/s/jfptc1n5z3wg90x/Beginners%40Kitthanet.wOUD?dl=1",
+			"import": false
+			},{
+			"name": "Beginners@กำไรเต็มMAX",
+			"image": "https://yt3.ggpht.com/OMh4ovhcguNO5w8_-69XLmmmcxZATdGL3xEvtIOjqCAs7YnYDjom3Jki8VYF35T06sF4KkK_7A",
+			"url": "https://www.dropbox.com/s/10rjc6pj4v0dcc5/BeginnersMAX.wOUD?dl=1",
+			"import": false
+			}]
+		#END==================== "Beginners" =======================#
+		},{
+		#======================= "Channel" =======================#
+		#== [!_@oud\=กลยุทธ์Forex=\SoundThai\Channel] ==#
+		"name": "Channel",
+		"image": "https://www.forex.academy/wp-content/uploads/2020/08/Screenshot_14-2.jpg",
+		"url": "https://www.dropbox.com/s/93gvjte26ujnj1e/Channel%40TH.wOUD?dl=1",
+		"import": false
+		#END==================== "Channel" =======================#
+		},{
+		#======================= "EditEA" =======================#
+		#== [!_@oud\=กลยุทธ์Forex=\SoundThai\EditEA] ==#
+		"name": "EditEA",
+		"image": "https://forexlearning.co/storage/blogs/22de9cb603c8330f0c6de095bcd2d06f.jpg",
+		"url": "https://www.dropbox.com/s/nqrncco1afze6u3/EditEA%40TH.wOUD?dl=1",
+		"import": false
+		#END==================== "EditEA" =======================#
+		},{
+		#======================= "Strategy@TH" =======================#
+		#== [!_@oud\=กลยุทธ์Forex=\SoundThai\Strategy@TH] ==#
+		"name": "Strategy@TH",
+		"image": "https://u.jimcdn.com/cms/o/s2e2ea4a9b3965dd1/userlayout/img/logo.png",
+		"groups":
+			[{
+			"name": "Arbitrage&Correlation",
+			"image": "https://u.jimcdn.com/cms/o/s2e2ea4a9b3965dd1/userlayout/img/logo.png",
+			"url": "https://www.dropbox.com/s/qvmi5oa9uwhq0np/Arbitrage%26Correlation.wOUD?dl=1",
+			"import": false
+			},{
+			"name": "Correlation Arbitrage ระบบไม่ดูกราฟไม่อ่านข่าว",
+			"image": "https://i.ytimg.com/vi/AtjYxgjIVu0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=",
+			"url": "https://www.dropbox.com/s/hz39urgqdr1rhzu/Correlation.mOUD?dl=1",
+			"import": false
+			},{
+			"name": "Correlation Golf Autotrade",
+			"image": "https://yt3.ggpht.com/ytc/AMLnZu-Cg4PKK8tQ3QbiU_grFzNzfcsBeaaEE_CVHFmn",
+			"url": "https://www.dropbox.com/s/ap9qh8k42g9oak0/Golf%20Autotrade.mOUD?dl=1",
+			"import": false
+			}]
+		#END==================== "Strategy@TH" =======================#
+		}]
+	#END==================== "SoundThai" =======================#
+	}]
+#END==================== "กลยุทธ์Forex" =======================#
+},{
+#======================= "ธรรมะMedia" =======================#
+#== [!_oud@IPTV\!_@oud\=ธรรมะMedia=] ==#
+"name": "!0_ธรรมะMedia",
+"image": "https://i.ytimg.com/vi/deSAUsVzP4o/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6AqIYTFHNHsqhK2pDnt_6VnjrMg",
+"groups":
+	[{
+	"name": "OnWebธรรมะ",
+	"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ypfl0EP7FKWKwd8CvscXTk1kn3rG19dK7Q&usqp=CAU",
+	"url": "https://www.dropbox.com/s/qmxgjfxi0nuzsok/OnWeb%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Radioธรรมะ",
+	"image": "https://i.ytimg.com/vi/ENTesayPr_c/hqdefault.jpg",
+	"url": "https://www.dropbox.com/s/av4c7ehbba9dqic/Radio%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Streamธรรมะ",
+	"image": "https://i.ytimg.com/vi/tO3CdEFgXFw/hqdefault.jpg",
+	"url": "https://www.dropbox.com/s/0hfvf4snkbj7uu8/Stream%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%B0.wOUD?dl=1",
+	"import": false
+	}]
+#END==================== "ธรรมะMedia" =======================#
+},{
+#======================= "SeeNow@oud" =======================#
+#== [!_oud@IPTV\!_@oud\=SeeNow=] ==#
+"name": "!0_SeeNow@oud",
+"image": "https://sv1.picz.in.th/images/2021/08/10/2Dpkn2.jpg",
+"groups":
+	[{
+	"name": "SeeNowRelax",
+	"image": "https://twdvd.com/live173/173pic2/26.jpg",
+	"url": "https://bit.ly/SeeNowRelax",
+	"import": false
+	},{
+	"name": "SeeNowธรรมะ",
+	"image": "https://i.ytimg.com/vi/deSAUsVzP4o/hqdefault.jpg",
+	"url": "https://www.dropbox.com/s/32csznf6z9r35gy/SeeNowธรรมะ.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "SeeNowMovie",
+	"image": "https://www.iptv4k.tv/images/movie/cSoXWTaPeRFEm4qEcQyTiAdbt1lcll71529892825_ode-to-galantry_cover.jpg",
+	"url": "https://www.dropbox.com/s/qqj3yav4ddssuif/SeeNowMovie.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "SeeNowSeries",
+	"image": "https://www.iptv4k.tv/images/movie/cSoXWTaPeRFEm4qEcQyTiAdbt1lcll71529892825_ode-to-galantry_cover.jpg",
+	"url": "https://www.dropbox.com/s/wq8zvlctwrb2gvz/SeeNowSeries.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "SeeNowTelegram",
+	"image": "https://www.iptv4k.tv/images/movie/cSoXWTaPeRFEm4qEcQyTiAdbt1lcll71529892825_ode-to-galantry_cover.jpg",
+	"url": "https://www.dropbox.com/s/uvqa5nuj16pe0ch/SeeNowTelegram.mOUD?dl=1",
+	"import": false
+	}]
+#END==================== "SeeNow@oud" =======================#
+},{
+#======================= "Test@oud" =======================#
+#== [!_oud@IPTV\!_@oud\=Test=] ==#
+"name": "Test@oud",
+"image": "https://www.english-efl.com/wp-content/uploads/2019/12/test.jpg",
+"groups":
+	[{
+	"name": "Test@m3u",
+	"image": "https://dl.dropbox.com/s/hv79dhw267j62op/Test.jpg",
+	"url": "https://www.dropbox.com/s/0v6ymnydpsc7tn5/Test%40m3u.mOUD?dl=1",
+	"import": false
+	},{
+	"name": "Test@w3u",
+	"image": "https://dl.dropbox.com/s/hv79dhw267j62op/Test.jpg",
+	"url": "https://www.dropbox.com/s/zj03juk65l27sgk/Test%40w3u.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Test@OnWeb",
+	"image": "https://dl.dropbox.com/s/hv79dhw267j62op/Test.jpg",
+	"url": "https://www.dropbox.com/s/xw3ki7h90vs59kb/Test%40OnWeb.wOUD?dl=1",
+	"import": false
+	},{
+	"name": "Test@Relax",
+	"image": "https://dl.dropbox.com/s/hv79dhw267j62op/Test.jpg",
+	"url": "https://www.dropbox.com/s/q1c00qi9kh6100z/Test%40Relax.wOUD?dl=1",
+	"import": false
+	}]
+#END==================== "Test@oud" =======================#
+}]
+
+}
