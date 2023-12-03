@@ -1,9 +1,9 @@
 {
-"name": "@oud_Script@",
+"name": "@Script_oud@",
 "author": "github.com",
 #== "!_oud@IPTV" ==#
 "image": "https://www.dropbox.com/s/m0oe15ok3scivze/NamChot2.jpg?dl=1",
-"url": "https://raw.githubusercontent.com/click2ohm/oud-IPTV/main/%40oud/Script_oud",
+"url": "https://raw.githubusercontent.com/click2ohm/oud_IPTV/main/%40oud/Script_oud",
 #== "https://freenote.biz/raw/cDNt807ycC" ==#
 "parental" : "true",
 "groups":
