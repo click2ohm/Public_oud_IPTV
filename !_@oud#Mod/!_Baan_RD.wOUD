@@ -3,14 +3,14 @@
 "author": "github.com",
 #== "!_oud@IPTV/!_@oud#Mod" ==#
 "image": "https://www.dropbox.com/s/m0oe15ok3scivze/NamChot2.jpg?dl=1",
-"url": "https://raw.githubusercontent.com/click2ohm/Public_oud_IPTV/main/!_%40oud%23Mod/!_Baan_RD.wOUD",
+"url": "https://cjkw.short.gy/@บ้านเรืองเดช@",
 "parental" : "true",
 "groups":
 [{
 
 "name": "@IPTVเค้าแจกมา@",
 "image": "https://sv1.picz.in.th/images/2021/08/10/2Dpkn2.jpg",
-"url": "https://raw.githubusercontent.com/click2ohm/oud_IPTV/main/!_%40oud%23Mod/!_Gen_IPTV.wOUD",
+"url": "https://cjkw.short.gy/@IPTVเค้าแจกมา@",
 "import": false
 },{
 "name": "@OnWeb..Movies@",
@@ -21,4 +21,5 @@
 }]
 
 }
+
 
