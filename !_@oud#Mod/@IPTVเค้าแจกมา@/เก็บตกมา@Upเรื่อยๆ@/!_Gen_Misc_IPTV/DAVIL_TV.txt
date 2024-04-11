@@ -1,0 +1,117 @@
+{
+"name": "DAVIL​ TV",
+"author": "ดับไม่เกียวกับผมตามสภาพ กดอัพเดตด้วย",
+#== "bit.ly/3ImGuZV" ==#
+#== "https://dl.dropboxusercontent.com/s/bp8biu53397givp/DAVIL_TV.w3u?dl=0" ==#
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2g15Dgz1I7HZ7hg3vd4TQYt-CGjNyn-c2g&usqp=CAU",
+"url": "https://5h44.short.gy/DAVIL",
+"groups": [
+
+{
+"name": "เฮียชู",
+"image": "https://inwfile.com/s-cc/izyrsp.png",
+"url": "http://tiny.cc/424603","import": false},
+
+{
+"name": "กูก็ก๊อปเค้ามาอีกที555 (พรเขต)​",
+"image": "https://dbdzm869oupei.cloudfront.net/img/sticker/large/15446.jpg",
+"url": "https://yamcode.com/raw/udoofree-7","import": false},
+
+{
+"name": "znFAHRHfNJ พรเขต",
+"image": "",
+"url": "https://freenote.biz/raw/znFAHRHfNJ","import": false}, 
+
+
+{
+"name": "l2IPTV",
+"image": "https://www.dropbox.com/s/xljb4ezvt5yagin/Screenshot_20230206_185844.jpg?dl=1",
+"url": "https://pastebin.com/raw/q5enpcpN","import": false}, 
+
+{
+"name": "SUNBUCK COOFEE TV",
+"image": "https://sv1.picz.in.th/images/2021/11/18/6SNdPe.jpg",
+"url": "https://drive.google.com/uc?id=12hfnpNPyPzffFo5sYbMEAHgHk6aY7faD","import": false},
+
+{
+"name": "PrincessPL",
+"image": "https://www.dropbox.com/s/zg1p51gwrb7dj97/Screenshot_20230209_075312.jpg?dl=1",
+"url": "http://tiny.cc/ak54vz","import": false}, 
+
+{
+"name": "DOO FREE",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDAX8PYWYBMqEXEXxxKCycClbFfs7d74I3ew&usqp=CAU",
+"url": "https://5h44.short.gy/Dragon","import": false}, 
+
+{
+"name": "DULUX บัวขาว",
+"image": "https://image.makewebeasy.net/makeweb/0/M1sidwdt1/AboutUs/Dulux_thailand_logo.png",
+"url": "https://pastebin.com/raw/6bpredkd","import": false},
+
+{
+"name": "น้อยคำกอง.ทีวี",
+"image": "https://img.freepik.com/free-vector/football-logo-background_1195-244.jpg?w=2000",
+"url": "https://bit.ly/noyTVw3p","import": false},
+
+{
+"name": "Movies​ @^nv^",
+"image": "https://www.transparentpng.com/thumb/movie/popcorn-and-drink-movie-png-strip--yGnAdn.png",
+"url": "http://tiny.cc/clone-v1","import": false},
+
+{
+"name": "Movies​ m3u",
+"image": "",
+"url": "https://bit.ly/3VTPVEL","import": false},
+
+{
+"name": "umovie",
+"image": "https://sv1.picz.in.th/images/2023/02/04/LgQluZ.jpg",
+"url": "https://freenote.biz/raw/SyO8CXQDbr","import": false},
+
+{
+"name": "เอก บ้านนาsport",
+"image": "https://play-lh.googleusercontent.com/0jzQcQ-7rhBIi_JpTxjUJoCqIXjdu6AzM7IucLQWp4sY2vsx8Oiid2DXJM5wCTuPAZ4=s180-rw",
+"url": "https://freenote.biz/raw/eBA4njoOiH","import": false},
+
+{
+"name": "@แบ่งปันสิ่งดีๆ คุณหนุ่มอุ็ยยยยย",
+"image": "https://tinyurl.com/yckvjdn6",
+"url": "https://tinyurl.com/565nxdfr","import": false},
+
+{
+"name": "SAN",
+"image": "https://www.dropbox.com/s/usdhigfrnw2nkui/Screenshot_20230101_190658.jpg?dl=1",
+"url": "https://bit.ly/gtr1996nismo","import": false},
+
+{
+"name": "STAR MARRANO SOLO MAY18 เฮียชู&emby",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
+"url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u","import": false},
+
+{
+"name": "AV UNCENSORED emby",
+"image": "https://jav69xxx.com/wp-content/uploads/2022/03/jav1436.jpg",
+"url": "https://drive.google.com/uc?id=1ThpJ4lL75tkRATfa7-AfdVkt-GxXj1s2","import": false},
+
+{
+"name": "",
+"image": "",
+"url": "","import": false},  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+] 
+} 

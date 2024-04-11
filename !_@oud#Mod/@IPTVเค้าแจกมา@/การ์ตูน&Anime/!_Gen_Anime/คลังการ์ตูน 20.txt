@@ -1,0 +1,27 @@
+{
+"name": "คลังการ์ตูน 20",
+"image": "https://sv1.picz.in.th/images/2023/05/30/Fr2o0N.gif",
+"author": "Update 04-12-2023",
+"url": "https://pastebin.com/raw/idwVNZGQ",
+"groups": [
+	
+  
+		{"name":" อนิเมะพากย์ไทย ","image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
+	"url": "https://drive.google.com/uc?id=1UZarL52H44-R7WXEpi0OfkYYapVpiR9c","import": false},  
+
+		{"name":" อนิเมะจีน ","image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
+	"url": "https://drive.google.com/uc?id=1UYIRxAqx5nBpCCRAbYDoYyvbx-lMyeZN","import": false},  
+	
+		{"name":" อนิเมะซับไทย ","image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
+	"url": "https://drive.google.com/uc?id=1UH-4fVveKDVWWlsg3OGloEvR7eLCbfQ7","import": false},  
+	
+		{"name":" อนิเมะมาใหม่ 2023 ","image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
+	"url": "https://drive.google.com/uc?id=1UNsxHp67QlYSi3zagWbtjGGhyIffx9Ua","import": false},  
+	
+		{"name":" เดอะมูฟวี่ ","image": "https://i0.wp.com/animemoji.net/wp-content/uploads/2022/04/moji-e1651359028221.png",
+	"url": "https://drive.google.com/uc?id=19BF7e0YCNqQZql54SEeeXC1SdFFNuofW","import": false},  
+
+
+	
+]
+}

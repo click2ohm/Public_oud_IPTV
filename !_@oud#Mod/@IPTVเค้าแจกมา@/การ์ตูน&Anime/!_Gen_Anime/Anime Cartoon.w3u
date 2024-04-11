@@ -1,0 +1,22 @@
+﻿{
+"name": "Anime Cartoon",
+"url": "https://drive.google.com/uc?id=11OjX8zXTqKn-IA2-N1EKcrLlAZt8J-eX",
+"image": "https://drive.google.com/uc?id=1DG72CDOd9r-Qyo_CqCK2pHYm92cbsSxY",
+"groups": 
+[{
+
+#== Anime Server1 "https://drive.google.com/uc?id=1HoohblnRmwaOYvjpL1DXToVEse-IwMDV" ==#
+"name": "Anime Season",
+"image": "https://drive.google.com/uc?id=1uZ_0994_a2KIhTk06tFb7zUdW34pRqjI",	
+"url": "https://www.dropbox.com/scl/fi/3bez8nawj7kwtiezb2lgj/AnimeSeason.w3u?rlkey=akhfr51cmeo5dyl4gkxd8aolr&dl=1",
+#== "https://drive.google.com/uc?id=1GrmsWTVK_xuCM0QJlSof_Ep83IXwx1bV" ==#
+"import": false
+},{
+"name": "Anime The Movie",
+"image": "https://drive.google.com/uc?id=1X81LloYFF1CgLewuU19674sEI2z6hmBl",
+"url": "https://www.dropbox.com/scl/fi/cjanwdhajiw9r70nm2uw3/AnimeTheMovie.w3u?rlkey=vharajg705tm8c9pabic5xvri&dl=1",
+#== "https://drive.google.com/uc?id=1icyHbYeKIuHhwhCVv5mo_l4gieT3ri--" ==#
+"import": false
+}]
+
+}

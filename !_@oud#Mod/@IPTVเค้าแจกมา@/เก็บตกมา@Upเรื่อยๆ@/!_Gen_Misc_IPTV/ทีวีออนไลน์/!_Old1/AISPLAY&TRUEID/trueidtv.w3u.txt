@@ -1,0 +1,301 @@
+{"name": "PLAYIDTV","author": "TRUE ID","url": "https://rebrand.ly/trueidtv","image": "https://i.ibb.co/2hZdffG/PlayIDTV.png",
+"epg": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml",
+      "epg": "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml",
+      "epg": "https://raw.githubusercontent.com/Playidturl1/epgtv/main/tv.trueid.net.xml",
+      
+"groups": [
+
+{"name": "กีฬา","author": "PLAYIDTV","url": "","image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/icons/tvs-now-logo.png","stations": [
+
+{"name": "(True ID Station)","image": "https://rentapi.blackboxsys.net/images/png/th-idstation.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-idstation&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"},
+
+{"name": "True Football 1(TH)","image": "https://blingtv.net/channels/images/TF1.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-1&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TruePremierFootball1.th"
+},
+
+{"name": "True Football 1(ENG)","image": "https://blingtv.net/channels/images/TF1.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-1eng&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TruePremierFootball1.th"
+},
+
+{"name": "True Football 2(TH)","image": "https://blingtv.net/channels/images/TF2.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-epl2&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TruePremierFootball2.th"
+},
+
+{"name": "True Football 2 (ENG)","image": "https://blingtv.net/channels/images/TF2.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-2eng&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TruePremierFootball2.th"
+},
+
+{"name": "True Football 3(TH)","image": "https://blingtv.net/channels/images/TF3.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-3&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TruePremierFootball3.th"
+},
+
+{"name": "True Football 3(ENG)","image": "https://blingtv.net/channels/images/TF3.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-3eng&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TruePremierFootball3.th"
+},
+
+
+{"name": "True Football 4","image": "https://blingtv.net/channels/images/TF4.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-4&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TruePremierFootball4.th"
+},
+
+{"name": "True Football 5(Eng)","image": "https://blingtv.net/channels/images/TF5.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5eng&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TruePremierFootball5.th"
+},
+
+{"name": "True Football 5","image": "https://blingtv.net/channels/images/TF5.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TruePremierFootball5.th"
+},
+
+{"name": "Bein Sports 1","image": "https://blingtv.net/channels/images/BS1.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"epgId": "beINSports1Thailand.th",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "Bein Sports 3","image": "https://blingtv.net/channels/images/BS3.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein3&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "beINSports3Thailand.th"},
+
+
+
+{"name": "True Sports 1","image": "https://blingtv.net/channels/images/TS1.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Sports 2","image": "https://blingtv.net/channels/images/TS2.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "True Sports 3","image": "https://blingtv.net/channels/images/TS3.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+
+{"name": "True Sports 4","image": "https://blingtv.net/channels/images/TS4.png",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Sports 5","image": "https://blingtv.net/channels/images/TS5.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tsport5&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Sports 7","image": "https://blingtv.net/channels/images/TS7.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-tsport7&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "TrueID-Volleyball","image": "https://blingtv.net/channels/images/TRV.png","url": "https://tv.trueid.net/embed/trueid-volleyball","referer": "https://tv.trueid.net/embed/trueid-volleyball?autoplay=yes&nopageview=yes",
+"embed": "true"},
+
+
+{"name": "Golf Channel Thailand","image": "https://blingtv.net/channels/images/GCT.png","url": "https://mobetz.com/doball/ch044/",
+"isHost": "true",
+"referer": "https://mobetz.com/doball/ch044/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "SPO  TV1","image": "https://blingtv.net/channels/images/SP1.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
+
+{"name": "SPO TV2","image": "https://blingtv.net/channels/images/SP2.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"embed": "true",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "NBA TH","image": "https://i.imgur.com/Qs70nvO.png","url": "https://mobetz.com/doball/ch043/","referer": "https://mobetz.com",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "TrueTennis","image": "https://blingtv.net/channels/images/TTN.png","url": "https://mobetz.com/doball/ch042/","referer": "https://mobetz.com/doball/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "TrueTennis","image": "https://blingtv.net/channels/images/TTN.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tennis&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},]},
+
+{"name": "ภาพยนตร์","author": "PLAYIDYV","url": "","image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/icons/tvs-now-logo.png","stations": [
+
+{"name": "Paramount network","image": "https://blingtv.net/channels/images/PRM.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"epgId": "ParamountNetwork.sg",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+
+{"name": "Warner","image": "https://blingtv.net/channels/images/WNR.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"epgId": "WarnerTV",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "AXN","image": "https://blingtv.net/channels/images/AXN.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-axn&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"epgId": "AXNThailand.th",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "True X-ZYTE","image": "https://blingtv.net/channels/images/TXZ.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"epgId": "TrueXZyte.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Asian More","image": "https://blingtv.net/channels/images/TAM.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"epgId": "TrueAsianMore.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Chinese More","image": "https://blingtv.net/channels/images/TCM.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"epg": "TrueChineseMore.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Film 1","image": "https://blingtv.net/channels/images/THF1.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"epgId": "TrueFilmHD.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "True Film 2","image": "https://blingtv.net/channels/images/THF2.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"epgId": "TrueFilmHD2.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Film Asia","image": "https://blingtv.net/channels/images/TFA.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-filmasia&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"epgId": "TrueFilmAsia.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Korean More","image": "https://blingtv.net/channels/images/TKM.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"epgId": "TrueKoreanMore.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "True Movies Hits","image": "https://blingtv.net/channels/images/TMH.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"epgId": "TrueMovieHits.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "True Series","image": "https://blingtv.net/channels/images/TRS.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"epgId": "trueseries.th",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Thai Film","image": "https://blingtv.net/channels/images/TTF.png","url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TrueThaiFilm.th"},
+]},
+
+{"name": "รายการเด็ก","author": "PLAYIDTV","url": "","image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/icons/tvs-now-logo.png","stations": [
+{"name": "Cartoon Network","image": "https://blingtv.net/channels/images/CTN.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-cartoonnetwork&api_key=hmfklstgerter5&ref=https://playerembed-lb.blackboxsys.net","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "CartoonNetwork.th"},
+
+{"name": "Dreamworks","image": "https://blingtv.net/channels/images/DMW.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-dreamworks&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "DreamWorksChannelAsia.us"},
+
+{"name": "Nickjr","image": "https://blingtv.net/channels/images/NKJ.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-nickjr&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "NickJr.th"},
+
+
+{"name": "Nickelodeon","image": "https://blingtv.net/channels/images/NIK.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-nickelodeon&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "Nickelodeon.th"},
+
+{"name": "True Spark Jump","image": "https://blingtv.net/channels/images/TSJ.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-sparkjump&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TrueSparkJump.th"},
+
+{"name": "True Spark Play","image": "https://blingtv.net/channels/images/TSP.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-sparkplay&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TrueSparkPlay.th"},]},{"name": "ข่าว","author": "PLAYIDTV","url": "","image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/icons/tvs-now-logo.png","stations": [{"name": "ABC Australia","image": "https://blingtv.net/channels/images/ABC.png","url": "http://ky-iptv.com:80/live/bria2022/bria2022/1400539.ts",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "BBC World News","image": "https://blingtv.net/channels/images/BBC.png","url": "http://ky-iptv.com:80/live/bria2022/bria2022/1847083.ts",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"},{"name": "CGTN","image": "https://blingtv.net/channels/images/CGT.png","url": "http://ky-iptv.com:80/live/bria2022/bria2022/399839.ts","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"},{"name": "CNN","image": "https://blingtv.net/channels/images/CNN.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-cnn&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},{"name": "Phoenix embedNews","image": "https://blingtv.net/channels/images/PIN.png","url": "http://ky-iptv.com:80/live/bria2022/bria2022/1400698.ts",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"},
+{"name": "Sky news","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkqHJDuuVkd9Wgh9U-906TU5G72refPkHZig&usqp=CAU","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-skynews&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},]},{"name": "สารคดี","author": "PLAYIDTV","url": "","image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/icons/tvs-now-logo.png","stations": [{"name": "Animal Planet","image": "https://blingtv.net/channels/images/ANP.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-animalplanet&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},{"name": "BBC Earth","image": "https://blingtv.net/channels/images/BBE.png","url": "http://iptvworld.ml:2095/play/live.php?mac=10:27:BE:2E:A0:E5&stream=115624&extension=ts&play_token=",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "Discovery Asia","image": "https://blingtv.net/channels/images/DCA.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},{"name": "Discovery Channel","image": "https://blingtv.net/channels/images/DSC.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},{"name": "History Channel","image": "https://blingtv.net/channels/images/HIS.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},{"name": "Love Nature","image": "https://blingtv.net/channels/images/LVN.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-lovenature&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},
+{"name": "TLC","image": "http://tvsmagazine.com/images/channels/sm_068.jpg",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-tlc&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+{"name": "National Geographic","image": "https://blingtv.net/channels/images/NGL.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+{"name": "True Explore SCI","image": "http://tvsmagazine.com/images/channels/sm_EXPSC.jpg",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-expsci&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"embed": "true",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+
+{"name": "True Explore Life","image": "https://blingtv.net/channels/images/TEL.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-explife&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co","embed": "true"},]},{"name": "บันเทิง","author": "PLAYIDTV","url": "","image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/icons/tvs-now-logo.png","stations": [{"name": "Arirang TV","image": "https://blingtv.net/channels/images/ARR.png","url": "https://aisplay.ais.co.th/portal/live?vid=5d6f234caae7315311b36904","referer": "https://aisplay.ais.co.th/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"
+},
+
+
+{"name": "Asian Food Network","image": "https://blingtv.net/channels/images/AFN.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-asianfood&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},{"name": "Food Network","image": "https://blingtv.net/channels/images/FNW.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-food&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
+{"name": "KBS World","image": "https://blingtv.net/channels/images/KBS.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-kbsworld&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},{"name": "LifeTime","image": "https://blingtv.net/channels/images/LFT.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},
+{"name": "Rock Entertainment","image": "https://blingtv.net/channels/images/RKE.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-blueant&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},{"name": "Rock Extreme","image": "https://blingtv.net/channels/images/RKX.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},{"name": "TVB","image": "https://blingtv.net/channels/images/TVB.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-tvb&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},{"name": "TVN","image": "https://blingtv.net/channels/images/TVN.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-tvn&api_key=hmfklstgerter5","referer": "https://www.ufazeed.co/","embed": "true"},]}]}

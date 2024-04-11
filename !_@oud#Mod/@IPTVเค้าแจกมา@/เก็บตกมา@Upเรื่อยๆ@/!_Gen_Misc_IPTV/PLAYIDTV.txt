@@ -1,0 +1,55 @@
+{
+"name": "รายการทีวีรวมหนัง",
+"author": "อัพเดทล่าสุดเดือน/มี.ค/66",
+"url": "https://bit.ly/iptvlinkw3u",
+"image": "https://dl.dropbox.com/s/0hht2x8ecw2cnyh/playidtvupdate.png?dl=0",
+"info": "PLAYIDTV",
+"groups": [
+
+{
+"name": "ทีวีออนไลน์",
+"image": "https://dl.dropbox.com/s/2faroo62ux3m9ck/20230110_215207.jpg?dl=0",
+"url": "https://bit.ly/playboxw3u",
+"info": "ชมดูทีวีออนไลน์",
+"import": false
+},
+{
+"name": "หนังภาพยนตร์",
+"image": "https://dl.dropbox.com/s/4fuizuwejkabxbj/20230110_215057.jpg?dl=0",
+"url": "https://dl.dropbox.com/s/s9y5v8amtmzxhqh/filemovie.txt?dl=0",
+"info": "ชมหนังออนไลน์",
+"import": false
+},
+{ "name": "รวมบอลสดทุกคู่", 
+"image": "https://dl.dropbox.com/s/d404q43pk9v7wqt/20230110_215705.jpg?dl=0", 
+"url": "https://dl.dropbox.com/s/ko9rrrepnw2lcfk/livestream.w3u?dl=0",
+"info":"ดูบอลทุกลีกดัง",
+"import": false
+},
+
+{"name": "มวยปล้ำพากย์ไทยน้าติง","image": "https://dl.dropbox.com/s/294c16fkgqvm17m/20230110_215451.jpg?dl=0","url": "https://dl.dropbox.com/s/iwjiymh8wdoj6id/wwe.txt?dl=0","import": false},
+{ "name": "ติดตามได้ที่นี้เลย", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtnySl2jkYS7OeUmlgmf9N_l1odv92ari8Q&usqp=CAU", 
+"url": "https://dl.dropbox.com/s/ehyctrgphavby4t/bloggerplayidtv.txt?dl=0",
+"info":"ผู้ดูแลระบบ",
+"import": false
+},
+]}
+
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+<title>www.google.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="description" content="คัดลอกลิงค์ใส่ไว้ในแอพได้เลย">
+<meta name="author" content="www.google.com">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="0;url="www.google.com">
+</head>
+<body bgcolor="000000">
+<center>
+<h2><img src="https://codemyui.com/wp-content/uploads/2017/02/android-marshmallow-boot-animation.gif"></h2>
+</center>
+</body>
+</html>

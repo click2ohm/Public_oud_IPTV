@@ -1,0 +1,20 @@
+{
+"name": "เอไอเอส+ทรูไอดี",
+"author": "Playidtv&W3U",
+"image": "https://dl.dropbox.com/s/m0i0zdwqfkn5jl4/trueais.png?dl=0",
+"url": "",
+"groups": [
+{
+"name": "AISPLAY TV",
+"image": "https://raw.githubusercontent.com/Playidturl1/playlist/main/20230207_225931.png",
+"url": "https://2nud.short.gy/aisplay.m3u",
+"import": false
+},
+{
+"name": "TRUEIDTV",
+"image": "https://raw.githubusercontent.com/Playidturl1/playlist/main/20230207_225831.png",
+"url": "https://2nud.short.gy/trueidtv.w3u",
+"import": false
+},
+]
+}

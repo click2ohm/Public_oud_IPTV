@@ -1,0 +1,7 @@
+{"name": "PLAYIDTV@อัพเดททุกวันที่เดียวจบ","author": "อัพเดทประจำเดือน มีค/ปี23","url": "https://dl.dropboxusercontent.com/s/nhgkamc2wbfvyyh/Playerbox.txt","image": "https://dl.dropbox.com/s/no9xw2omcws9vt4/dootvall.jpg?dl=0","info": "PLAYIDTV","groups": [
+{"name": "AISPLAY&TRUEID","image": "https://i.postimg.cc/BnSsyrWW/lfdynsej.png","url": "https://2nud.short.gy/aisplaytrueid.w3u","import": false},
+{"name": "แอนดรอยด์ทีวี","image": "https://i.postimg.cc/mkLjddKw/home.png","url": "https://2nud.short.gy/besttv.w3u","import": false},
+{"name": "OTT&PLAYIDTV ","image": "https://i.postimg.cc/mZvw24V9/lfdyi1d0.png","url": "https://2nud.short.gy/playlistott.m3u","import": false},
+{"name": "ASTROTV","image": "https://i.postimg.cc/mZvw24V9/lfdyi1d0.png","url": "https://dl.dropbox.com/s/4w8tbyh3c3a5ipa/tvchannels.m3u?dl=0","import": false},
+
+ ]}

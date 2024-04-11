@@ -1,0 +1,166 @@
+{
+
+		"name": "ก๊อบมั๊ย nung2hddd ",
+
+		"author": "เหมาะสำหรับใช้ในที่พักอาศัย",
+
+		"info": " ก๊อบมั้ย ก๊อบๆ ",
+
+		"image":"https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+
+		"url": "http://bit.ly/3iAclgr",
+
+		
+
+		
+
+		"groups": [
+
+		
+
+
+
+
+
+
+{
+"name": "FREETV เครดิต สลัด",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+"url": "https://www.dropbox.com/s/fl5tdzah1ezqti9/dooball2you_live_tv.m3u?dl=1",
+"import": false },
+
+
+
+{
+"name": "หนังใหม่",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+"url": "https://bit.ly/3BgDH1b",
+"import": false },
+
+
+{
+"name": "Western หนังตะวันตก(คาวบอย) ",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+"url": "https://www.dropbox.com/s/ee6m7nl4jvx9rj4/Movie_western.w3u?dl=1",
+"import": false },
+
+
+
+{
+"name": "หนังอินเดีย",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+"url": "https://www.dropbox.com/s/07h5tx07u603i24/Movie_nung2hdd_cinema-india.w3u?dl=1",
+"import": false },
+
+
+
+
+
+{
+"name": "หนังThai",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+"url": "https://www.dropbox.com/s/h74q4895pahhbm1/123-hd_%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2.w3u.txt?dl=1",
+"import": false },
+
+
+
+
+{
+"name": "หนังเก่า",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+"url": "https://www.dropbox.com/s/iiccxodghw2zcn0/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87.txt?dl=1",
+"import": false },
+
+
+
+{
+"name": "i-moviehd",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+"url": "https://www.dropbox.com/s/m686p98u1wp1gtx/i-moviehd_tv.w3u?dl=1",
+"import": false },
+
+
+
+
+
+
+{
+"name": "Channel Tv",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+"url": "https://www.dropbox.com/s/qcb2nfqkdlt9evv/tv_channels_f3TRyXuq_plus.m3u?dl=1",
+"import": false },
+
+
+
+]},},
+
+
+
+{
+"name": "Sport",
+"image": "https://media3.giphy.com/media/IgpsRT6FdinjrDWzNu/giphy.gif?cid=6c09b95201950cc44804c942958c49ecb32e443faee5f246&rid=giphy.gif&ct=g",
+"url": "https://www.dropbox.com/s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+"image": "https://media3.giphy.com/media/IgpsRT6FdinjrDWzNu/giphy.gif?cid=6c09b95201950cc44804c942958c49ecb32e443faee5f246&rid=giphy.gif&ct=g",
+"url": "https://www.dropbox.com/s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+m/s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+m/s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+
+m/s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+0%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+m/s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+m/s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+
+m/s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+
+m/s/0yoxo2z0if42as7/%E0%B9%80%E0%B8%97%E0%B8%AA002.txt?dl=1",
+"import": false },
+se },
+
+se },
+l=1",
+"import": false },
+se },
+
+se },
+
+se },
+
+
+{"name": " เครดิต สลัด ",
+"image": "https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
+"url": "http://bit.ly/3iAclgr",
+"import": false },
+
+

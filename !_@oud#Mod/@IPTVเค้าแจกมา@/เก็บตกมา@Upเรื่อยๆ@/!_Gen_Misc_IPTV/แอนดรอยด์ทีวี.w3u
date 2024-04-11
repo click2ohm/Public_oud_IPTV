@@ -1,0 +1,3294 @@
+{ 
+   "name": "ดูได้กับแอนดรอยด์ทีวี",
+   "author": "เขียนโดย-PLAYIDTV",
+   "url": "https://2nud.short.gy/besttv.w3u",
+   "image": "https://truevisions.co.th/static/package_properties_streaming.png",
+   "epg": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/guide.xml",
+      "epg": "https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml",
+   "contact": "@mail.com",
+   "info": "เลือกหมวดหมู่ทีวี",
+   "groups": [ 
+
+{
+         "name": "ทีวีช่องบันเทิงและซีรี่ส์",
+         "image": "https://i.postimg.cc/tg7HckG9/Entertainment.png",
+         "stations": [ 
+{
+"name": "KBS WORLD TRUE",
+"image": "http://tvsmagazine.com/images/channels/sm_KBS.jpg", 
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-kbsworld&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "KBSWorld"},
+
+{
+"name": "KBS WORLD KOREAN",
+"image": "http://tvsmagazine.com/images/channels/sm_KBS.jpg", 
+"url": "https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"epgId": "KBSWorld"
+},
+{
+"name": "FOOD NETWORK HD",
+"image": "http://tvsmagazine.com/images/channels/sm_FNW.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-food&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "FoodNetwork"
+},
+{
+"name": "BBCLifestyle","image": "http://tvsmagazine.com/images/channels/sm_130.jpg",
+"url": "https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDE6Mjk6NTIgUE0maGFzaF92YWx1ZT05dWdIK1R6U3ZMeEx0NVhLbWRSdC9RPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTU5MTY=",
+"referer": "https://wacth.tv/",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"epgId": "BBCLifestyle.th"
+},
+{
+"name": "BBCLifestyle","image": "http://tvsmagazine.com/images/channels/sm_130.jpg",
+"url": "http://kungtv.net:80/play/live.php?mac=00:1A:79:00:00:00&stream=115626&extension=m3u8&play_token",
+"referer": "https://wacth.tv/",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000",
+"epgId": "BBCLifestyle.th"
+},
+
+{
+"name": "ASIAN FOOD NETWORK ",
+"image": "http://tvsmagazine.com/images/channels/sm_214.jpg", 
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-asianfood&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "AFN"
+},
+{
+"name": "Rock Entertainment HD",
+"image": "http://tvsmagazine.com/images/channels/sm_177.jpg",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-blueant&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"origin": "https://www.ufazeed.co",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{
+"name": "ROCK ACTION HD",
+"image": "http://tvsmagazine.com/images/channels/sm_260.jpg", 
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-rtlcbsextreme&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"origin": "https://www.ufazeed.co",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "RockExtreme.sg"
+},
+{
+"name": "TRUE KMTV HD",
+"image": "http://tvsmagazine.com/images/channels/sm_KMTV.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-kmtv&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"origin": "https://www.ufazeed.co",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "kmtv.kr"
+},
+{
+"name": "TRUE XZYTE",
+"image": "http://tvsmagazine.com/images/channels/sm_034.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-xzyte&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"origin": "https://www.ufazeed.co",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "TrueXZyte.th"
+},
+{
+"name": "TRUE INSIDE",
+"image": "http://tvsmagazine.com/images/channels/sm_040.jpg",
+"url": "https://wacthstream.com/stream_live/335_TrueInsideHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xOC8yMDIzIDE6Mzg6NDMgUE0maGFzaF92YWx1ZT1XakM5WnlnYUQ5WUtEaUNVemx4MjZ3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzk4MDQ=",
+"referer": "https://wacth.tv",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 10.0; Win64; x64; en-US) Gecko/20100101 Firefox/53.4"
+},
+{
+"name": "TRUE INSIDE",
+"image": "http://tvsmagazine.com/images/channels/sm_040.jpg",
+"url": "https://tv.trueid.net/embed/true-inside-hd",
+"embed": "true",
+"playInNatPlayer":"true",
+"info": "ทีวีช่องหนัง", 
+"referer": "https://tv.trueid.net",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"origin": "https://tv.trueid.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+
+
+{
+"name": "AXN",
+"image": "http://tvsmagazine.com/images/channels/sm_120.jpg",
+"imageScale": "fitStart",
+"url": "https://sport.livedoomovies.com:4431/02_AXNHD_720p/chunklist.m3u8",
+"referer": "https://www.siammovie-hd.com/",
+"info": "ทีวีช่องหนัง",
+"epgId": "AXN"
+},
+{
+"name": "AXN",
+"image": "http://tvsmagazine.com/images/channels/sm_120.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-axn&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "AXNHDThailand.th"
+},
+{
+"name": "LIFETIME",
+"image": "http://tvsmagazine.com/images/channels/sm_174.jpg",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-lifetime&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"origin": "https://www.ufazeed.co",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "Lifetime"
+}
+]
+},
+{
+         "name": "ทีวีช่องหนัง",
+         "image": "https://i.postimg.cc/mrrbsRCf/movie.png",
+         "stations": [ 
+
+
+{
+"name": "TrueMovieHits",
+"image": "http://tvsmagazine.com/images/channels/sm_057.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-moviehits&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true",
+"epgId": "TrueMovieHits.th"
+},
+{
+"name": "TrueMovieHits",
+"image": "http://tvsmagazine.com/images/channels/sm_057.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-moviehits&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "TrueMovieHits.th"
+},
+
+{
+"name": "True Series",
+"image": "http://tvsmagazine.com/images/channels/sm_002.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sd-series&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "TrueSeries.th"
+},
+{
+"name": "True Series",
+"image": "http://tvsmagazine.com/images/channels/sm_002.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-series&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true",
+"epgId": "TrueSeries.th"
+},
+{
+"name": "TrueFilmAsia",
+"image": "http://tvsmagazine.com/images/channels/sm_006.jpg", 
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-filmasia&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true",
+"epgId": "TrueFilmAsia.th"
+},
+{
+"name": "TrueChineseMore",
+"image": "http://tvsmagazine.com/images/channels/sm_244.jpg", 
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-chinesemore&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "TrueChineseMore.th"
+},
+{
+"name": "TrueChineseMore",
+"image": "http://tvsmagazine.com/images/channels/sm_244.jpg", 
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-chinesemore&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true",
+"epgId": "TrueChineseMore.th"
+},
+{
+"name": "TrueThaiFilm",
+"image": "http://tvsmagazine.com/images/channels/sm_094.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-thaifilm&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true",
+"epgId": ""
+},
+{
+"name": "Warner TV",
+"image": "http://tvsmagazine.com/images/channels/sm_WARNR.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true",
+"epgId": "WarnerTV"
+},
+{
+"name": "Warner TV",
+"image": "http://tvsmagazine.com/images/channels/sm_WARNR.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-warnertv&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "WarnerTV"
+},
+
+{
+"name": "3BB-HBOTH",
+"image": "https://dl.dropbox.com/s/plpuj6bbqmw83ts/hbo.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://2nud.short.gy/hbo.m3u8",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"info": "ทีวีช่องหนัง",
+"epgId": "HBO.th"
+},
+{
+"name": "HBOFHD",
+"image": "https://dl.dropbox.com/s/plpuj6bbqmw83ts/hbo.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://2nud.short.gy/hboasia.m3u8",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://playerembed-lb.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "HBO"
+},
+{
+"name": "HBO B",
+"image": "https://dl.dropbox.com/s/plpuj6bbqmw83ts/hbo.png?dl=0",
+"imageScale": "fitStart",
+"url": "http://udoofree.com/movie2/231/single-live?watch=1",
+"embed": "true",
+"referer": "http://udoofree.com/live?genre=5",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", 
+"desktop": "true",
+"epgId": "HBO.th",
+"embed": "true"
+},
+{
+"name": "3BB-HBOHITS",
+"image": "https://dl.dropbox.com/s/85r9u3dwiby4xsp/hbohits.png?dl=0",
+"url": "https://2nud.short.gy/hbohits.m3u8",
+"info": "ทีวีช่องหนัง",
+"epgId": "HBOHits.th", "desktop": "true"
+},
+{
+"name": "HBO FAMILY B",
+"image": "https://images.hdpri.me/images/tv/png/th-hbofamily.png",
+"url": "http://udoofree.com/movie2/233/single-live?watch=1",
+"embed": "true",
+"referer": "http://udoofree.com/live?genre=5",
+"info": "ทีวีช่องหนัง",
+"epgId": "HBOFamily.th", "embed": "true"
+},
+
+{
+"name": "HBO Family",
+"image": "https://tv.xcoshop.com/wp-content/uploads/2022/10/hbo-family-919-523.png",
+"url": "https://2nud.short.gy/hbofam.m3u8",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "HBOFamily.th", "desktop": "true"},
+
+
+
+
+{
+"name":"3BB-HBOSIGNATURE",
+"info":"ทีวีช่องหนัง",
+"image":"https://images.hdpri.me/images/tv/png/th-hbosignature.png",
+"url":"https://2nud.short.gy/hbosig.m3u8",
+"info": "ทีวีช่องหนัง",
+"epgId": "hbosignature.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+
+{
+"name":"3BB-CINAMIX",
+"info":"ทีวีช่องหนัง",
+"image":"https://images.hdpri.me/images/tv/png/sd-cinemax.png",
+"url":"https://2nud.short.gy/cinemax.m3u8",
+"info": "ทีวีช่องหนัง",
+"epgId": "Cinemax.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{
+"name": " True FilmHD2",
+"image": "http://tvsmagazine.com/images/channels/sm_221.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm2&api_key=mc6Ghb2&nocache=",
+"isHost": "true",
+"referer":"https://dooball66.com/",
+"info": "ทีวีช่องหนัง", 
+"desktop": "true",
+"epgId": "TrueFilmHD2.th",
+"origin":"https://playerembed-lb.blackboxsys.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+"name": " TrueFilmHD 2",
+"image": "http://tvsmagazine.com/images/channels/sm_221.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-tfilm2&api_key=mc6Ghb2&nocache=",
+"isHost": "true",
+"referer":"https://dooball66.com/",
+"info": "ทีวีช่องหนัง", 
+"desktop": "true",
+"epgId": "TrueFilmHD2.th",
+"origin":"https://playerembed-lb.blackboxsys.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+},
+{
+
+"name": "TVNHD",
+"image": "http://tvsmagazine.com/images/channels/sm_096.jpg", 
+"url": "http://185.243.7.13:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571260&extension=ts&play_token=",
+"referer": "https://wacth.tv/",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "TVNAsia.hk"
+},
+{
+"name": "TH-CELESTIAL",
+"image": "https://images.hdpri.me/images/tv/png/th-celestial.png",
+"imageScale": "fitStart",
+"url": "https://raw.githubusercontent.com/Playidturl1/playlist/main/movie/ccm.m3u8",
+"referer": "https://wacth.tv/",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"epgId": "CCM"
+},
+{
+"name": "TrueKoreanMore",
+"image": "http://tvsmagazine.com/images/channels/sm_243.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-koreanmore&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "TrueKoreanMore.th"
+},
+{
+"name": "TrueKoreanMore",
+"image": "http://tvsmagazine.com/images/channels/sm_243.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-koreanmore&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "TrueKoreanMore.th"
+},
+{
+"name": "TrueFilmHD1",
+"image": "http://tvsmagazine.com/images/channels/sm_176.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tfilm&api_key=hmfklstgerter5",
+"epgId": "TrueFilmHD1.th",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "TrueFilmHD.th"
+},
+{
+"name": "TrueFilmHD1",
+"image": "http://tvsmagazine.com/images/channels/sm_176.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-tfilm&api_key=hmfklstgerter5",
+"epgId": "TrueFilmHD1.th",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "TrueFilmHD.th"
+},
+{
+"name": " Paramount",
+"image": "http://tvsmagazine.com/images/channels/sm_222.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-paramount&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "ParamountNetwork.sg"
+},
+{
+"name": " Paramount",
+"image": "http://tvsmagazine.com/images/channels/sm_222.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-paramount&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "ParamountNetwork.sg"
+},
+{
+"name": "TrueAsianMore",
+"image": "http://tvsmagazine.com/images/channels/sm_158.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-asianmore&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "TrueAsianMore.th"
+},
+{
+"name": "TrueAsianMore",
+"image": "https://dl.dropbox.com/s/k0xvjocp3jgjn8y/trueasianmore.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-asianmore&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ทีวีช่องหนัง",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{
+"name": "FW MOV",
+"image": "https://sv1.picz.in.th/images/2022/10/07/p2xiNZ.png",
+"imageScale": "fitStart",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89782",
+"isHost": "true",
+"referer": "https://www.inwiptv.com",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "FW SOV",
+"image": "https://sv1.picz.in.th/images/2022/10/07/p2xb9v.png",
+"imageScale": "fitStart",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89781",
+"isHost": "true",
+"referer": "https://www.inwiptv.com",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "Cable Box Film",
+"image": "https://i.imgur.com/ACIoLb2.png",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC52/index.m3u8",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "Cable SUN",
+"image": "https://i.imgur.com/NWuip1G.png",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC1/index.m3u8",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "Cable SAMURAI",
+"image": "https://i.imgur.com/SYOqA7z.png",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC2/index.m3u8",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "Cable-Media",
+"image": "https://thaitvstream.com/streaming/medianews/medianews.png",
+"imageScale": "fitStart",
+"url": "https://live1.thaitvstream.com/play/medianews/index.m3u8",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "Cable-CTB",
+"image": "https://attv.mobi/images_tvonline/1430148187.jpg",
+"imageScale": "fitStart",
+"url": "http://vip.login.in.th:1935/CTB/CTB/chunklist_w672486153.m3u8",
+"info": "ทีวีช่องบันเทิงและซีรี่ส์",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+}
+]
+},
+
+{ 
+         "name": "ช่องเด็ก",
+         "image": "https://i.postimg.cc/NGRvZLS2/kids.png",
+         "stations": [ 
+
+{
+"name": "DREAMWORKS",
+"image": "https://dl.dropbox.com/s/4xl2fa71c1akowv/dreamwork.png?dl=0",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-dreamworks&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ช่องเด็ก",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{"name": "ANIPLUS","image": "https://dl.dropbox.com/s/svf3cyzym6kq1v9/aniplus.png?dl=0","url": "http://kungtv.net:2095/play/live.php?mac=00:1A:79:00:00:00&stream=115609&extension=ts&play_token=",
+"referer": "https://ais-vidnt.com/",
+"info": "ช่องเด็ก",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{"name": "CARTOON NETWORK TH","image": "https://dl.dropbox.com/s/0amwsrf43o29ebu/cn.png?dl=0","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-cartoonnetwork&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "ช่องเด็ก",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{"name": "NICK","image": "https://dl.dropbox.com/s/s03n5y1179nk8jy/nick.png?dl=0","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-nickjr&api_key=hmfklstgerter5","isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ช่องเด็ก",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{"name": "TRUE SPARK JUMP","image": "https://dl.dropbox.com/s/dxcsc85qh9ssq6d/truesparkjump.png?dl=0",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-sparkjump&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ช่องเด็ก",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{"name": "Nickelodeon","image": "https://images.livebox.co/images/tv/png/sd-nickelodeon.png","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-nickelodeon&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ช่องเด็ก",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{"name": "TRUE SPARK PLAY","image": "https://dl.dropbox.com/s/ivow94yig7c6h1b/truesparkplay.png?dl=0","url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-sparkplay&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "ช่องเด็ก",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+}
+]
+},
+
+
+{ 
+         "name": "ช่องข่าวไทย",
+         "image": "https://i.postimg.cc/Xvttz0gg/news.png",
+         "stations": [ 
+   
+{
+"name": "BBC WORLD NEWS",
+"image": "https://freetvdd.com/wp-content/uploads/2019/12/bbc-world-news.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-bbcworldnews.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "bbcworldnews"},
+{
+"name": "Fox News",
+"image": "https://www.ilike-movie.com/uploads/png/Fox_News_TH.png",
+"url": "https://streaming.livescorethai.net/iptv/uk-foxnews.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "CNA"},
+ {
+"name": "Arirang",
+"image": "https://www.ilike-movie.com/uploads/png/Arirang.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-arirang.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "arirang"},  
+{
+"name": "CNA",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-channelnewsasia.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true",
+"epgId": "CNA"},
+{
+"name": "CNBC AIS",
+"image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CNBC.png",
+"url": "https://streaming.livescorethai.net/iptv/sd-cnbc.stream/playlist.m3u8",
+"referer": "https://freetvdd.com",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"DW",
+"image":"https://www.ilike-movie.com/uploads/png/sd-deutschewelle.png",
+"url":"https://aisplay.ais.co.th/portal/live?vid=59a9a6b7aae7311c5f0cc5db",
+"referer": "https://aisplay.ais.co.th/portal/",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"ABC-NEWS",
+"image":"https://www.dropbox.com/s/wbvf62wybqka3al/australia.jpeg?dl=1",
+"url":"https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name":"Euronews",
+"image":"https://www.ilike-movie.com/uploads/png/Euronews.png",
+"url":"https://aisplay.ais.co.th/portal/live?vid=59a9a636aae7311c5f0cc5da",
+"referer": "https://aisplay.ais.co.th/",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "NEWS 1",
+"image": "https://static.thaicom.io/image_channel/images_img_chn_big_Chn_41.png",
+"url": "https://aisplay.ais.co.th/portal/live?vid=59a9a80baae7311c60cf2039",
+"referer": "https://aisplay.ais.co.th/",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{"name": "TV5 Monde","image": "https://static.thaicom.io/chbig/big_149_20220517044632.png","url": "https://aisplay.ais.co.th/portal/live?vid=5e588aaebf6aee2296382b1e",
+"referer": "https://aisplay.ais.co.th/",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{"name": "NHK","image": "https://www.ilike-movie.com/uploads/png/NHK_WORLD_TV.png","url": "https://aisplay.ais.co.th/portal/live?vid=598069357ed5a20c89aa1f43","referer": "https://aisplay.ais.co.th/",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "ALJAZEERA","image": "https://www.ilike-movie.com/uploads/png/Al_Jazeera_En.png","url": "https://aisplay.ais.co.th/portal/live?vid=5e588a5c2db06c1ca29b13c4","referer": "https://aisplay.ais.co.th/",
+"info": "ช่องข่าว",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+}
+]
+},
+{
+"name": "ทีวีดิจิทัล",
+"image": "https://i.postimg.cc/sX9K4FHx/freetv.png",
+"stations": [
+{
+"name": "NBT",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nbt.jpg",
+"imageScale": "fitStart",
+"url": "https://thainews.prd.go.th/lv/live/ch1_L.sdp/playlist.m3u8",
+"info": "ทีวีดิจิทัล",
+"epgId": "NBT2.th"
+},
+{
+"name": "TPTV",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tptv.jpg",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/TPTV/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"epgId": "tptv.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "NBT WORLD",
+"image": "https://dl.dropbox.com/s/tzqz74jvye8re6m/nbt.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8",
+"info": "ทีวีดิจิทัล",
+"epgId": "NBT2.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "POLICE TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkKIuwIIwapoOXal2NTsCJ37e2nnSa89T4oQ&usqp=CAU",
+"imageScale": "fitStart",
+"url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "suwannabhumi-",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZJruAWAwGwjThaDamBhCUerP2f_5z3WHnvg&usqp=CAU",
+"imageScale": "fitStart",
+"url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "AMARINTV",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-amarin.jpg",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/chamarin/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"epgId": "Amarin34HD.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "AMARIN34",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-amarin.jpg",
+"imageScale": "fitStart",
+"url": "http://183.89.246.119:8010/play/a00r/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"epgId": "Amarin34HD.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "CH3HD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-3hd.jpg",
+"imageScale": "fitStart",
+"url": "http://183.89.246.119:8010/play/a00n/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"epgId": "CH3.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "3HD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-3hd.jpg",
+"imageScale": "fitStart",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27137",
+"info": "ทีวีดิจิทัล",
+"epgId": "CH3.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "TV5HD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tv5hd.jpg",
+"imageScale": "fitStart",
+"url": "https://tv5.co.th/tv5hd1-web/page-live.php?ch=tv5hd",
+"info": "ทีวีดิจิทัล",
+"epgId": "TV5HD.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "CH7 FHD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-7hd.jpg",
+"imageScale": "fitStart",
+"url": "https://live-cdn-hwc.ch7.com/livech7hd/HD.m3u8",
+"epgId": "BBTVChannel7.th",
+"info": "ทีวีดิจิทัล"
+},
+{
+"name": " CH8",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-8.jpg",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/ch8/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": " GMM25 TRUEID",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-gmm25.jpg",
+"imageScale": "fitStart",
+"url":"https://tv.trueid.net/embed/gmm25?autoplay=yes&nopageview=yes",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{
+"name": "ช่อง GMM25",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-gmm25.jpg",
+"imageScale": "fitStart",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27153",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "ONE31",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-one31.jpg",
+"imageScale": "fitStart",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27140",
+"isHost": "true",
+"referer": "https://www.inwiptv.com",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "ONE31 FHD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-one31.jpg",
+"imageScale": "fitStart",
+"url": "http://183.89.246.119:8010/play/a00e/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "JKN18",
+"image": "https://dl.dropbox.com/s/byqurs38hszlfi8/jkn.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/newtv/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": " MCOT HD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-mcot-hd.jpg",
+"imageScale": "fitStart",
+"url": "http://183.89.246.119:8010/play/a00h/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " MCOT-HD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-mcot-hd.jpg",
+"imageScale": "fitStart",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27141",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "MONO29 Subtitles EN",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-mono29.jpg",
+"imageScale": "fitStart",
+"url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "MONO 29 TH",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-mono29.jpg",
+"imageScale": "fitStart",
+"url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "NATIONTV22",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-nation.jpg",
+"imageScale": "fitStart",
+"url":"https://www.inwiptv.com/player_demo.php?channel=27162",
+"info": "ทีวีดิจิทัล",
+"userAgent": "ExoPlayerLib/2.8.4", "desktop": "true"},
+{
+"name": " PPTVHD36 TRUEID",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-pptv36.jpg",
+"imageScale": "fitStart",
+"url":"https://tv.trueid.net/embed/pptv-hd?autoplay=yes&nopageview=yes",
+"info": "ทีวีดิจิทัล",
+"epgId": "PPTVHD.th",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"},
+{
+"name": " PPTV FHD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-pptv36.jpg",
+"imageScale": "fitStart",
+"url":"http://183.89.246.119:8010/play/a00s/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": " THAI PBS FHD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thaipbs.jpg",
+"imageScale": "fitStart",
+"url": "http://183.89.246.119:8010/play/a00j/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "THAIRATH",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thairath32.jpg",
+"imageScale": "fitStart",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27138",
+"isHost": "true",
+"referer": "https://www.inwiptv.com",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "THAIRATH FHD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-thairath32.jpg",
+"imageScale": "fitStart",
+"url": "http://183.89.246.119:8010/play/a00i/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " TNN16",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn16.jpg",
+"imageScale": "fitStart",
+"url":"https://tv.trueid.net/embed/tnn16?autoplay=yes&nopageview=yes",
+"info": "ทีวีดิจิทัล",
+"referer": "https://tv.trueid.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": " TNN16 FHD",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-tnn16.jpg",
+"imageScale": "fitStart",
+"url":"http://183.89.246.119:8010/play/a00b/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "ExoPlayerLib/2.8.4", "desktop": "true"},
+{
+"name": "ATTV",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-altv4.jpg",
+"imageScale": "fitStart",
+"url":"https://tv.trueid.net/embed/ATTV?autoplay=yes&nopageview=yes",
+"info": "ทีวีดิจิทัล",
+"referer": "https://tv.trueid.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": "ZING TRUEID",
+"image": "https://www.tvjaa.com/storage/tv-channels/zing.png",
+"imageScale": "fitStart",
+"url":"https://tv.trueid.net/embed/zing?autoplay=yes&nopageview=yes",
+"info": "ทีวีดิจิทัล",
+"referer": "https://tv.trueid.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": "RAMA CHANNEL TRUEID",
+"image": "https://www.tvjaa.com/storage/tv-channels/ramachannel.png",
+"imageScale": "fitStart",
+"url":"https://tv.trueid.net/embed/rama-channel?autoplay=yes&nopageview=yes",
+"info": "ทีวีดิจิทัล",
+"referer": "https://tv.trueid.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": "TRUE 4U",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-true4u-24.jpg",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/chtrue4u3/index.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"},
+{
+"name": " VOICE-TV",
+"image": "https://dl.dropbox.com/s/qzvymi1a1j4rhwq/voicetv.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://www.warpfootball.games/live/?ch=voicetv",
+"referer": "https://www.warpfootball.games/",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"},
+
+{
+"name": "ไทไซโย",
+"image": "https://dl.dropbox.com/s/53njjabp453iua4/thaichiyo.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "TOP NEWS",
+"image": "https://dl.dropbox.com/s/wprn5anfnfo6udp/topnews.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://live.topnews.co.th/hls/topnews_720.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " MIX MAJOR",
+"image": "https://www.tvjaa.com/storage/tv-channels/majormix.png",
+"imageScale": "fitStart",
+"url":"https://edge6a.v2h-cdn.com/mix_major/mix_major.stream/chunklist_w1656949848.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "ExoPlayerLib/2.8.4", "desktop": "true"},
+{
+"name": "COOL CHANNEL",
+"image": "https://cms.dmpcdn.com/livetv/2022/10/26/9bf6e290-5501-11ed-8a1c-1b0203708999_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://tv.trueid.net/embed/cool-ch?autoplay=yes&nopageview=yes",
+"info": "ทีวีดิจิทัล",
+"referer": "https://tv.trueid.net/embed/cool-ch/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": "COOL CHANNEL",
+"image": "https://cms.dmpcdn.com/livetv/2022/10/26/9bf6e290-5501-11ed-8a1c-1b0203708999_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "WORKPOINT-TV",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-workpoint.jpg",
+"imageScale": "fitStart",
+"url": "https://www.inwiptv.com/player_demo.php?channel=27159",
+"info": "ทีวีดิจิทัล",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"},
+{
+"name": "WORKPOINT2",
+"image": "https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-workpoint.jpg",
+"imageScale": "fitStart",
+"url": "https://geo.dailymotion.com/player/x8wpe.html?video=x6g9qjj",
+"isHost": "true",
+"referer": "https://ufac4.net/",
+"info": "ทีวีดิจิทัล",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000"
+}
+         ]
+      },     
+
+{ 
+         "name": "สระคดีความรู้",
+         "image": "https://i.postimg.cc/tJd06mWN/documentary.png",
+         "stations": [ 
+{
+"name": " ANIMAL PLANET",
+"image": "https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-animalplanet&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"
+},
+{
+"name": " ANIMAL PLANET",
+"image": "https://dl.dropbox.com/s/d55ewtydhd2sabh/animalplanet.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-animalplanet&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"
+},
+{
+"name": "DISCOVERY ASIAN",
+"image": "https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-discovery&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "DISCOVERY ASIAN",
+"image": "https://dl.dropbox.com/s/0xe09zz3jfpsozc/discoveryasia.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-discovery&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "LOVE4NATURE",
+"image": "https://images.livebox.co/images/tv/png/sd-lovenature.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-lovenature&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "DISCOVERY",
+"image": "https://dl.dropbox.com/s/hpv2pfy2qfqbuve/discovery.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=sd-discovery&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "TLC",
+"image": "https://dl.dropbox.com/s/ujyv1yamsekcnr7/tlc.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-tlc&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "Samrujlok",
+"image": "https://dl.dropbox.com/s/zpf1x9blccdl6m7/samrujlok.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC8/index.m3u8",
+"info": "สระคดีความรู้",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
+},
+{
+"name": "Crime",
+"image": "https://dl.dropbox.com/s/glb7gxiextzw97k/ci.png?dl=0",
+"imageScale": "fitStart",
+"url": "http://iptvtree.net:8080/argoni150Con/twq965yhjfvxkmzaq/157554",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{
+"name": "True Explorer LIFE",
+"image": "https://dl.dropbox.com/s/fnvsc8ab9fb8phd/trueexplorerlife.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-explife&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "True Explorer SCI",
+"image": "https://dl.dropbox.com/s/utljale0v0vsq0o/trueexplorersci.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-expsci&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"
+},
+{
+"name": "Outdoor",
+"image": "https://images.livebox.co/images/tv/png/hd-outdoor.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-outdoor&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"
+},
+{
+"name": "BBC CEARTH",
+"image": "https://dl.dropbox.com/s/1bjab9nmcxvbqqg/bbcearth.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"info": "สระคดีความรู้",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "True Explorer Wild",
+"image": "https://dl.dropbox.com/s/pe1kvervyja3cd3/trueexplorerwild.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8",
+"referer": "https://streaming.livescorethai.net",
+"info": "สระคดีความรู้",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{
+"name": "Food Network",
+"image": "https://dl.dropbox.com/s/x1dg2ve0gn37782/foodnetwork.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-food&api_key=hmcb4rf66f",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true"
+},
+{
+"name": "Global Trekker",
+"image": "https://dl.dropbox.com/s/q13zqqq8s4lpfl4/globaltrekker.jpeg?dl=0",
+"imageScale": "fitStart",
+"url": "https://cdn6.goprimetime.info/feed/202205171929/LC37/index.m3u8",
+"info": "สระคดีความรู้",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "HISTORY HD",
+"image": "https://dl.dropbox.com/s/ok5j2fbe9y54b4s/history.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-history&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true"
+},
+{
+"name": " NATGEO-TH",
+"image": "https://dl.dropbox.com/s/3xym6jy2h7h0q2j/ng.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-natgeo&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"referer": "https://www.ufazeed.co/",
+"info": "สระคดีความรู้",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true"
+},
+         ]
+      },
+      { 
+         "name": "กีฬาไทย",
+         "image": "https://i.postimg.cc/RZskwt6y/sportsth.png",
+         "stations": [ 
+         
+{
+"name": "3BBSportsOne",
+"image": "https://gigatv.3bb.co.th/wp-content/themes/changwattana/img/channel/hbo/3BBSportsOne.png",
+"imageScale": "fitStart",
+"url": "https://dl.dropboxusercontent.com/s/4iwz00c9brwrr3c/3bbsport.m3u8",
+"epgId": "3BBSportone.th",
+"referer": "https://ais-vidnt.com",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "ID-STATION",
+"image": "https://dl.dropbox.com/s/w5vf3w7pmyyvsw6/trueid1.jpg?dl=0",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=hd-idstation&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36", "desktop": "true"
+},
+{
+"name": "ID-STATION",
+"image": "https://dl.dropbox.com/s/w5vf3w7pmyyvsw6/trueid1.jpg?dl=0",
+"imageScale": "fitStart",
+"url": "https://ufa77th.tv/channel?ch=trueidstation",
+"isHost": "true",
+"referer": "https://ufa77th.tv",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": "ID-STATION2",
+"image": "https://www.dropbox.com/s/wa437bsj37k90fe/trueid2.jpg?dl=1",
+"imageScale": "fitStart",
+"url": "https://ufa77th.tv/channel?ch=trueidstation2",
+"isHost": "true",
+"referer": "https://ufa77th.tv",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": "SPOTV 1",
+"image": "https://dl.dropbox.com/s/ygq4z2t7nm8yqpr/spotv1.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SPOTV 2",
+"image": "https://dl.dropbox.com/s/j24j6uv7mce5lfc/spotv2.png?dl=0",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-spotv2&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " TRUE PREMIERE 1",
+"image": "http://tvsmagazine.com/images/channels/sm_233.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-epl1&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36", "desktop": "true"
+},
+{
+"name": " TRUE PREMIERE 1",
+"image": "http://tvsmagazine.com/images/channels/sm_233.jpg",
+"imageScale": "fitStart",
+"url": "https://raw.githubusercontent.com/Playidturl1/playlist/main/Ott/Sport/PremierHD1.m3u8",
+"referer": "https://www.doomovie-hd.com/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " TRUE PREMIERE 1",
+"image": "http://tvsmagazine.com/images/channels/sm_233.jpg",
+"imageScale": "fitStart",
+"url": "https://nungkai-hd.com/liveball.php?data=epl1",
+"referer": "https://nungkai-hd.com/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": " TRUE PREMIERE 2",
+"image": "http://tvsmagazine.com/images/channels/sm_234.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-2&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": " TRUE PREMIERE 2",
+"image": "http://tvsmagazine.com/images/channels/sm_234.jpg",
+"imageScale": "fitStart",
+"url": "https://nungkai-hd.com/liveball.php?data=epl2",
+"referer": "https://nungkai-hd.com/liveball.php?data=epl2",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " TRUE PREMIERE 3",
+"image": "https://blingtv.net/channels/images/TF3.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-epl3&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": " TRUE PREMIERE 3",
+"image": "https://blingtv.net/channels/images/TF3.png",
+"imageScale": "fitStart",
+"url": "https://nungkai-hd.com/liveball.php?data=epl3",
+"referer": "https://nungkai-hd.com",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " TRUE PREMIERE 4",
+"image": "https://blingtv.net/channels/images/TF4.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-epl4&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": " TRUE PREMIERE 4",
+"image": "https://blingtv.net/channels/images/TF4.png",
+"imageScale": "fitStart",
+"url": "https://nungkai-hd.com/liveball.php?data=epl4",
+"isHost": "true",
+"referer": "https://nungkai-hd.com",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": " TRUE PREMIERE 5",
+"image": "https://blingtv.net/channels/images/TF5.png",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=th-epl5&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"},
+{
+"name": " TRUE PREMIERE 5",
+"image": "https://blingtv.net/channels/images/TF5.png",
+"imageScale": "fitStart",
+"url": "https://nungkai-hd.com/liveball.php?data=epl5",
+"isHost": "true",
+"referer": "https://nungkai-hd.com",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"},
+{
+"name": "TSPORT5",
+"image": "http://tvsmagazine.com/images/channels/sm_056.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-tsport5&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"},
+{
+"name": "TSPORT7",
+"image": "http://tvsmagazine.com/images/channels/sm_105.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-tsport7&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "TSPORT HD",
+"image": "http://tvsmagazine.com/images/channels/sm_097.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmfklstgerter5",
+"ishost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"},
+{
+"name": "TSPORT HD1",
+"image": "http://tvsmagazine.com/images/channels/sm_097.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport1&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"},
+{
+"name": " TRUE SPORT HD2",
+"image": "http://tvsmagazine.com/images/channels/sm_123.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "TSPORT HD2",
+"image": "http://tvsmagazine.com/images/channels/sm_123.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "TRUE SPORT HD3",
+"image": "http://tvsmagazine.com/images/channels/sm_184.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport3&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"},
+{
+"name": "TRUE SPORT HD4",
+"image": "http://tvsmagazine.com/images/channels/sm_062.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tsport4eng&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": " Outdoor Channel",
+"image": "http://tvsmagazine.com/images/channels/sm_164.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=th-outdoor&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "GOLF",
+"image": "http://tvsmagazine.com/images/channels/sm_095.jpg",
+"imageScale": "fitStart",
+"url": "https://www.livedoomovies.com:4432/02_golfhd_720p/chunklist.m3u8",
+"referer": "https://www.doomovie-hd.com",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "TENNIS",
+"image": "http://tvsmagazine.com/images/channels/sm_045.jpg",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-tennis&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "BEIN1",
+"image": "http://tvsmagazine.com/images/channels/sm_BEIN1.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-bein1&api_key=hmfklstgerter5",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "TH BEIN Sports 1",
+"image": "http://tvsmagazine.com/images/channels/sm_BEIN1.jpg",
+"imageScale": "fitStart",
+"url": "https://ufa77th.tv/channel?ch=bein1",
+"referer": "https://ufa77th.tv/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "BEIN2",
+"image": "http://tvsmagazine.com/images/channels/sm_BEIN2.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-bein2&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "BEIN2 AIS",
+"image": "http://tvsmagazine.com/images/channels/sm_BEIN2.jpg",
+"imageScale": "fitStart",
+"url": "https://168dooball.com/livestream?ch=bein2",
+"isHost": "true",
+"referer": "https://168dooball.com/",
+"info": "กีฬาไทย",
+"origin": "https://nungkai-hd.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "BEIN SPORTS 3",
+"image": "http://tvsmagazine.com/images/channels/sm_BEIN3.jpg",
+"imageScale": "fitStart",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-bein3&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาไทย",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000", "desktop": "true"
+},
+{
+"name": "BEIN4 TH",
+"image": "http://tvsmagazine.com/images/channels/sm_BEIN4.jpg",
+"imageScale": "fitStart",
+"url": "https://ufa77th.tv/channel?ch=bein4",
+"isHost": "true",
+"referer": "https://ufa77th.tv/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "BEIN5 TH",
+"image": "https://cms.dmpcdn.com/livetv/2021/09/20/afb48ed0-19df-11ec-9231-7b4ced80be66_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://ufa77th.tv/channel?ch=bein5",
+"isHost": "true",
+"referer": "https://ufa77th.tv/channel?ch=bein5/",
+"info": "กีฬาไทย",
+"origin": "https://ufa77th.tv",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "BEIN6 TH",
+"image": "https://cms.dmpcdn.com/livetv/2022/04/19/b8503f40-bf92-11ec-b538-73498e79c864_webp_320.webp",
+"imageScale": "fitStart",
+"url": "https://ufa77th.tv/channel?ch=bein6",
+"isHost": "true",
+"referer": "https://ufa77th.tv/",
+"info": "กีฬาไทย",
+"origin": "https://nungkai-hd.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "TH NBA",
+"image": "https://cordcutting.com/wp-content/uploads/2018/06/NBA-Tv-Logo.png",
+"imageScale": "fitStart",
+"url": "https://live.vip-streaming.com:30443/doolive4k.tv/true-nba/playlist.m3u8",
+"referer": "https://doolive4k.tv/",
+"info": "กีฬาไทย",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000", "desktop": "true"}
+         ]
+      },
+{ 
+         "name": "กีฬาต่างประเทศ",
+         "image": "https://i.postimg.cc/656bz3XX/sportworld.png",
+         "stations": [ 
+         
+  {
+"name": "LFC",
+"image": "https://images.hdpri.me/images/tv/png/uk-lfctv.png",
+"imageScale": "fitStart",
+"url": "https://mobetz.com/doball/ch061/",
+"isHost": "true",
+"referer": "https://mobetz.com/doball/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://mobetz.com",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport1&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT2",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport2&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT3",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport3&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT4",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport4.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport4&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT5",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport5.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport5&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT6",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport6.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport6&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT7",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport7.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport7&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "supersport8",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport8.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport8&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT9",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport9.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport9&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT10",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport10.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport10&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT11",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport11.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport11&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT12",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport12.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport12&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT13",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport13.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport13&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT15",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport15.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport15&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "SUPERSPORT16",
+"image": "https://rentapi.blackboxsys.net/images/png/af-supersport16.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=af-supersport16&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "ELEVEN",
+"image": "https://rentapi.blackboxsys.net/images/png/us-eleven.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-eleven&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " FOX501",
+"image": "https://rentapi.blackboxsys.net/images/png/au-fox501.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-fox501&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "FOX502",
+"image": "https://rentapi.blackboxsys.net/images/png/au-fox502.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-fox502&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "FOX503",
+"image": "https://rentapi.blackboxsys.net/images/png/au-fox503.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-fox503&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "FOX504",
+"image": "https://rentapi.blackboxsys.net/images/png/au-fox504.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-fox504&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "FOX505",
+"image": "https://rentapi.blackboxsys.net/images/png/au-fox505.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-fox505&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "FOX506",
+"image": "https://rentapi.blackboxsys.net/images/png/au-fox506.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-fox506&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " au-fox507",
+"image": "https://rentapi.blackboxsys.net/images/png/au-fox507.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-fox507&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "RACING",
+"image": "https://rentapi.blackboxsys.net/images/png/au-racing.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-racing&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " au-skyracing1",
+"image": "https://rentapi.blackboxsys.net/images/png/au-skyracing1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-skyracing1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " au-skyracing2",
+"image": "https://rentapi.blackboxsys.net/images/png/au-skyracing2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=au-skyracing2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " ca-sportsnet360",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-sportsnet360.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnet360&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " ca-sportsnetworld",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-sportsnetworld.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-sportsnetworld&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " ca-tsn2",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-tsn2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " ca-tsn3",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-tsn3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn3&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " ca-tsn4",
+"image": "https://rentapi.blackboxsys.net/images/png/ca-tsn4.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ca-tsn4&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " rs-arena1",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-arena1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=rs-arena1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " rs-sportklub1",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=rs-sportklub1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " rs-sportklub2",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=rs-sportklub2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " rs-sportklub3",
+"image": "https://rentapi.blackboxsys.net/images/png/rs-sportklub3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=rs-sportklub3&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " fr-bein1hd",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-bein1hd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein1hd&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " fr-bein2hd",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-bein2hd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein2hd&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " fr-bein3hd",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-bein3hd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-bein3hd&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+
+{
+"name": "beinsportmax4",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-beinsportmax4.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax4&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "beinsportmax5",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-beinsportmax5.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax5&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "beinsportmax6",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-beinsportmax6.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax6&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "beinsportmax7",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-beinsportmax7.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax7&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "beinsportmax6",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-beinsportmax8.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-beinsportmax8&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " fr-canalsport",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-canalsport.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-canalsport&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " fr-eurosport",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-eurosport.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-eurosport&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " fr-eurosport2",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-eurosport2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-eurosport2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " fr-infosport",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-infosport.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-infosport&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " fr-rmcsport1",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-rmcsport1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-rmcsport1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " fr-rmcsport2",
+"image": "https://rentapi.blackboxsys.net/images/png/fr-rmcsport2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=fr-rmcsport2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " de-skybundesliga",
+"image": "https://rentapi.blackboxsys.net/images/png/de-skybundesliga.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skybundesliga&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " de-skysport3",
+"image": "https://rentapi.blackboxsys.net/images/png/de-skysport3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport3&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " de-skysport5",
+"image": "https://rentapi.blackboxsys.net/images/png/de-skysport5.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport5&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " de-skysport2",
+"image": "https://rentapi.blackboxsys.net/images/png/de-skysport2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysport2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " de-skysportnews",
+"image": "https://rentapi.blackboxsys.net/images/png/de-skysportnews.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-skysportnews&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " de-sportdigital",
+"image": "https://rentapi.blackboxsys.net/images/png/de-sportdigital.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-sportdigital&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " de-sport1plus",
+"image": "https://rentapi.blackboxsys.net/images/png/de-sport1plus.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=de-sport1plus&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " TEN1",
+"image": "https://rentapi.blackboxsys.net/images/png/in-ten1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=in-ten1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " in-starsports1",
+"image": "https://rentapi.blackboxsys.net/images/png/in-starsports1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=in-starsports1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " in-starsports2",
+"image": "https://rentapi.blackboxsys.net/images/png/in-starsports2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=in-starsports2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " id-flowsports1",
+"image": "https://rentapi.blackboxsys.net/images/png/id-flowsports1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=id-flowsports1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " ie-eirsport1",
+"image": "https://rentapi.blackboxsys.net/images/png/ie-eirsport1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " ie-eirsport2",
+"image": "https://rentapi.blackboxsys.net/images/png/ie-eirsport2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=ie-eirsport2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-arena1",
+"image": "https://rentapi.blackboxsys.net/images/png/my-arena1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-arena1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-arena2",
+"image": "https://rentapi.blackboxsys.net/images/png/my-arena2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-arena2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-astrobeinmax",
+"image": "https://rentapi.blackboxsys.net/images/png/my-astrobeinmax.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-astrobeinmax&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-astrobein",
+"image": "https://rentapi.blackboxsys.net/images/png/my-astrobein.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-astrobein&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " hd-cricket",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-cricket.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-cricket&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " hd-golfeng",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-golfeng.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-golfeng&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-rugbypass",
+"image": "https://rentapi.blackboxsys.net/images/png/my-rugbypass.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-rugbypass&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": "my-wwe",
+"image": "https://rentapi.blackboxsys.net/images/png/my-wwe.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-wwe&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-asp1hd",
+"image": "https://rentapi.blackboxsys.net/images/png/my-asp1hd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp1hd&api_key=hmfklstgerter5",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-asp2hd",
+"image": "https://rentapi.blackboxsys.net/images/png/my-asp2hd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp2hd&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-asp3hd",
+"image": "https://rentapi.blackboxsys.net/images/png/my-asp3hd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp3hd&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-asp4",
+"image": "https://rentapi.blackboxsys.net/images/png/my-asp4.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp4&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " my-asp5",
+"image": "https://rentapi.blackboxsys.net/images/png/my-asp5.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=my-asp5&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " hd-edge",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-edge.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-edge&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " nz-skysport1",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nz-skysport1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " nz-skysport2",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nz-skysport2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " nz-skysport3",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nz-skysport3&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " nz-skysport4",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport4.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nz-skysport4&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " nz-skysport5",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport5.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nz-skysport5&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " nz-skysport6",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport6.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nz-skysport6&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " nz-skysport7",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport7.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nz-skysport7&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " nz-skysport8",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport8.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nz-skysport8&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " nz-skysport9",
+"image": "https://rentapi.blackboxsys.net/images/png/nz-skysport9.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=nz-skysport9&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " pt-sporttv1",
+"image": "https://rentapi.blackboxsys.net/images/png/pt-sporttv1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " pt-sporttv2",
+"image": "https://rentapi.blackboxsys.net/images/png/pt-sporttv2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " pt-sporttv3",
+"image": "https://rentapi.blackboxsys.net/images/png/pt-sporttv3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv3&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " pt-sporttv4",
+"image": "https://rentapi.blackboxsys.net/images/png/pt-sporttv4.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv4&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " pt-sporttv5",
+"image": "https://rentapi.blackboxsys.net/images/png/pt-sporttv5.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=pt-sporttv5&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " hd-bein1",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-bein1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " hd-bein5",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-bein5.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein5&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " hd-bein11",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-bein11.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein11&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " hd-bein12",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-bein12.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-bein12&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " hd-eurosport",
+"image": "https://rentapi.blackboxsys.net/images/png/hd-eurosport.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=hd-eurosport&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " sg-hubpremier01",
+"image": "https://rentapi.blackboxsys.net/images/png/sg-hubpremier01.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sg-hubpremier01&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " sg-hubpremier03",
+"image": "https://rentapi.blackboxsys.net/images/png/sg-hubpremier03.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sg-hubpremier03&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " sg-hubpremier04",
+"image": "https://rentapi.blackboxsys.net/images/png/sg-hubpremier04.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sg-hubpremier04&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " sg-hubpremier05",
+"image": "https://rentapi.blackboxsys.net/images/png/sg-hubpremier05.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sg-hubpremier05&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " sg-hubpremier06",
+"image": "https://rentapi.blackboxsys.net/images/png/sg-hubpremier06.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=sg-hubpremier06&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " epl-bein2eng",
+"image": "https://rentapi.blackboxsys.net/images/png/epl-bein2eng.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=epl-bein2eng&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-bein",
+"image": "https://rentapi.blackboxsys.net/images/png/us-bein.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-bein&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-espn1",
+"image": "https://rentapi.blackboxsys.net/images/png/us-espn1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-espn1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-espn-deportes",
+"image": "https://rentapi.blackboxsys.net/images/png/us-espn-deportes.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-espn-deportes&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-espn2",
+"image": "https://rentapi.blackboxsys.net/images/png/us-espn2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-espn2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-fox-deportes",
+"image": "https://rentapi.blackboxsys.net/images/png/us-fox-deportes.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-fox-deportes&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-foxsports1",
+"image": "https://rentapi.blackboxsys.net/images/png/us-foxsports1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-foxsports1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-foxsports2",
+"image": "https://rentapi.blackboxsys.net/images/png/us-foxsports2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-foxsports2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-goltv",
+"image": "https://rentapi.blackboxsys.net/images/png/us-goltv.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-goltv&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-nba",
+"image": "https://rentapi.blackboxsys.net/images/png/us-nba.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-nba&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-nbcgolf",
+"image": "https://rentapi.blackboxsys.net/images/png/us-nbcgolf.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-nbcgolf&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-nbcsports",
+"image": "https://rentapi.blackboxsys.net/images/png/us-nbcsports.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-nbcsports&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-nfl",
+"image": "https://rentapi.blackboxsys.net/images/png/us-nfl.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-nfl&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-willowcrickethd",
+"image": "https://rentapi.blackboxsys.net/images/png/us-willowcrickethd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-willowcrickethd&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " us-wwe",
+"image": "https://rentapi.blackboxsys.net/images/png/us-wwe.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=us-wwe&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsport1hdbkp",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsport1hdbkp.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hdbkp&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsport1hd",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsport1hd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport1hd&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsport2hdbkp",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsport2hdbkp.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hdbkp&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsport2hd",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsport2hd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport2hd&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsport3hdbkp",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsport3hdbkp.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hdbkp&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsport3hd",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsport3hd.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsport3hd&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsportextra1",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsportextra2",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsportextra3",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra3.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra3&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsportextra4",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra4.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra4&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-btsportextra5",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-btsportextra5.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-btsportextra5&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-eurosport",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-eurosport.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-eurosport2",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-eurosport2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-eurosport2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-freesports",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-freesports.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-freesports&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-premiersports",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-premiersports.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-premiersports&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-premiersports2",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-premiersports2.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-premiersports2&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports3bkp",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports3bkp.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports3bkp&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-action",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-action.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-action&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-arena",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-arena.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-arena&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skyboxoffice",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skyboxoffice.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skyboxoffice&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports2bkp",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports2bkp.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports2bkp&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-cricket",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-cricket.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-cricket&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysportsf1bkp",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysportsf1bkp.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysportsf1bkp&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-f1",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-f1.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-f1&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-football",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-football.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-football&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports4bkp",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports4bkp.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports4bkp&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-golf",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-golf.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-golf&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports1bkp",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports1bkp.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports1bkp&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-mainevent",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-mainevent.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mainevent&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-mix",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-mix.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-mix&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-news",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-news.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-news&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports5bkp",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports5bkp.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports5bkp&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
+},
+{
+"name": " uk-skysports-epl",
+"image": "https://rentapi.blackboxsys.net/images/png/uk-skysports-epl.png",
+"imageScale": "fitStart",
+"url": "https://embed-dev.blackboxsys.net/player.php?channel=uk-skysports-epl&api_key=hmfklstgerter5&nocache=",
+"isHost": "true",
+"referer": "https://www.ufazeed.co/",
+"info": "กีฬาต่างประเทศ",
+"origin": "https://embed-dev.blackboxsys.net",
+"userAgent": "ExoPlayerLib/2.8.4"
+}
+]},
+{
+"name": "รายการทีวี (*ดูผ่านเว็บ*) ",
+"image": "https://i.ibb.co/2hZdffG/PlayIDTV.png",
+"stations": [
+{
+"name": "ดิจิตอลทีวี","image": "https://truevisions.co.th/static/package_properties_streaming.png","url": "http://udoofree.com/live?genre=1","referer": "http://udoofree.com","userAgent": "ExoPlayerLib/2.8.4","embed": "true"},
+{
+"name": "ข่าว","image": "https://truevisions.co.th/static/package_properties_news.png","url": "http://udoofree.com/live?genre=2","referer": "http://udoofree.com","userAgent": "ExoPlayerLib/2.8.4","embed": "true"},
+{
+"name": "การ์ตูน","image": "https://truevisions.co.th/static/package_properties_kids.png","url": "http://udoofree.com/live?genre=3","referer": "http://udoofree.com","userAgent": "ExoPlayerLib/2.8.4","embed": "true"},
+{
+"name": "กีฬา","image": "https://truevisions.co.th/static/package_properties_sports.png","url": "http://udoofree.com/live?genre=4","referer": "http://udoofree.com","userAgent": "ExoPlayerLib/2.8.4","embed": "true"},
+{
+"name": "ภาพยนต์","image": "https://truevisions.co.th/static/package_properties_movies.png","url": "http://udoofree.com/live?genre=5","referer": "http://udoofree.com","userAgent": "ExoPlayerLib/2.8.4","embed": "true"},
+{
+"name": "วาไรตี้","image": "https://truevisions.co.th/static/package_properties_variety.png","url": "http://udoofree.com/live?genre=6","referer": "http://udoofree.com","userAgent": "ExoPlayerLib/2.8.4","embed": "true"},
+{
+"name": "สารคดี","image": "https://truevisions.co.th/static/package_properties_knowledge.png","url": "http://udoofree.com/live?genre=7","referer": "http://udoofree.com","userAgent": "ExoPlayerLib/2.8.4","embed": "true"},
+{
+"name": "บันเทิง","image": "https://truevisions.co.th/static/package_properties_music.png","url": "http://udoofree.com/live?genre=8","referer": "http://udoofree.com","userAgent": "ExoPlayerLib/2.8.4","embed": "true"}]},
+{
+"name": "รายการวิทยุออนไลน์",
+"image": "https://truevisions.co.th/static/package_properties_music.png",
+"stations": [
+{
+"name": "ไทยกันมาเลเซีย","image": "https://truevisions.co.th/static/package_properties_music.png","url": "https://rebrand.ly/playidtvradio","referer": "https://playidturl1.github.io/PlayIDTVRadio/","userAgent": "ExoPlayerLib/2.8.4","embed": "true"},
+{
+"name": "ทบลองใช้","image": "https://truevisions.co.th/static/package_properties_streaming.png","url": "https://playidturl1.github.io/play2/","referer": "https://playidturl1.github.io/play2/","userAgent": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36 Maxthon/5.3.8.2000","embed": "true"}
+         ]
+      },
+      
+  ]
+}"
+
+

@@ -1,0 +1,92 @@
+{
+"name": "WIN TV",
+"author": "WIN",
+"image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png",
+"url": "https://bit.ly/3K4AnIh",
+"info": "https://pastebin.com/YpDkAZPg",
+"groups": [
+{
+"name": "TV Digital",
+"image": "https://v1.igetweb.com/www/aosat/article/art_42205644.png",
+"url": "https://pastebin.com/raw/85xPY9SY",
+"import": "true"
+},
+{
+"name"              :     "Sport Channel",
+"image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g5NUSyMS2OB-fZCEMSCdLFnAxKutGuycn9clJfdVMT7e2VKH&usqp=CAU",
+"url"               :     "https://pastebin.com/EhARAHhP",
+"import": false
+},
+{
+"name": "Japan TV",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa2_uZlvxVdoLf7kxMjLUDIYnTCUvIO0GRityPJLxoGzQS1-dF0CGLdNsDCJKMYTiTXUE&usqp=CAU",
+"url": "https://pastebin.com/raw/kdzS7nSx",
+"import": "true"
+},
+{
+"name": "Kids",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRijX04JzTg1tid1MV5KkEvldG7Wdj7Jox96Q&usqp=CAU",
+"url": "https://pastebin.com/5ReNzFMp",
+"import": false
+},
+{
+"name"              :     "Radio Online",
+"image"             :     "https://cdn.icon-icons.com/icons2/544/PNG/512/Radio_icon-icons.com_53189.png",
+"url"               :     "https://pastebin.com/XEBsKWZr",
+"import": false
+},
+{
+"name": "Education",
+"image": "https://freepngimg.com/thumb/education/9-2-education-png-file.png",
+"url": "https://pastebin.com/WTX4nR8m",
+"import": false
+},
+{
+"name": "Dhamma TV",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Dhamma_Cakra.svg/1024px-Dhamma_Cakra.svg.png",
+"url": "https://pastebin.com/hQbEXH2Y",
+"import": false
+},
+{
+"name": " Documentary",
+"image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/6dc8d256-46ca-4aa1-b0ac-f2f1d1eaa538/dcjd0z4-6f8337da-d458-4107-b4f2-f9e258be0beb.png/v1/fill/w_512,h_512,q_80,strp/documentary_folder_icon_by_oussi20om_dcjd0z4-fullview.jpg",
+"url": "https://pastebin.com/D9Mzy7MQ",
+"import": false
+},
+{
+"name": " Anime Online",
+"image": "https://media.cdnandroid.com/60/74/4f/24/96/imagen-animeonline-ver-anime-online-gratis-animeflv-0thumb.jpg",
+"url": "https://pastebin.com/b0spFvmR",
+"import": false
+},
+{
+"name": "TV Cambodia",
+"image": "https://play-lh.googleusercontent.com/Ttrc6Cv7ur6wgZWzyt6uZx4D8SFzmNSAP0RgsWnMEmOYaCKSVajKkP1psEARVUM6XiE=w240-h480-rw",
+"url": "https://pastebin.com/raw/ebeXtJUf",
+"import": false
+},
+{
+"name": "TV Korea",
+"image": "https://play-lh.googleusercontent.com/BJOrGneekmEEn7xQRFES3Ge-F-AaV0xg-LlpjP3pi8LfNj8MN_eH596nGreKKGCudw",
+"url": "https://pastebin.com/asFQKSdJ",
+"import": false
+},
+{
+"name": "Movie Channel",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIiY8kA9bvJesP3mEnV21O2FXoCTVq-wRSdw&usqp=CAU",
+"url": "https://pastebin.com/J6H7a6AP",
+"import": false
+},
+{ "name"              :     "MOVIE & SERIES",
+"image"             :     "https://scontent.fkkc1-1.fna.fbcdn.net/v/t1.6435-9/82291318_145199877173682_5905878594499581908_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=z_4TSBuaXQYAX_-ojQZ&_nc_ht=scontent.fkkc1-1.fna&oh=00_AT_J3rm9QrcTerdYHkFUWzbaBjXdpGUQnYaQSJXlcfLbXQ&oe=634CDB28",
+"url"               :     "https://pastebin.com/RFfQAc03",
+"import": false
+},
+{
+"name": "News Channel",
+"image": "https://i.pinimg.com/736x/fa/22/d7/fa22d7e72e9819b48960fa45a640f89f.jpg",
+"url": "https://pastebin.com/Fb1wh4uz",
+"import": "true"
+},
+]
+}​
